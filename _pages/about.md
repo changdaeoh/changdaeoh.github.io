@@ -20,25 +20,8 @@ My research interest includes:
 Feb. 2023. One paper accepted to **CVPR 2023** \\
 Feb. 2023. Outstanding paper award at University of Seoul \\
 May. 2022. One paper accepted to **KDD 2022** -->
-<!-- Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
-Oct. 2022. NeurIPS2022 Top reviewer \\
-Sep. 2022. **Google Ph.D. fellowship** \\
-Aug. 2022. Research internship at **MetaAI**, Seattle, WA, USA \\
-Feb. 2022. **AI/CS/EE Rising star 2022** supported by Google Explore Computer Science Research \\
-Oct. 2021. Best presentation award at KAIST-ADD workshop \\
-Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
-Apr. 2021. Invited talk at Samsung, Suwon, South Korea \\
-Jan. 2021. One paper accepted to **ICLR 2021** \\
-Dec. 2020. Research internship at AITRICS, Seoul, South Korea \\
-Dec. 2020. ICML2020 oustanding reviewer (Top 30%) \\
-Nov. 2020. NAVER Ph.D. fellowship \\
-Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
- -->
 
 ## Education
-<!-- - **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-Mar. 2018 - Aug. 2023 (expected) -->
-  
 - **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
 Mar. 2022 - Feb. 2024 (expected)
 
@@ -47,16 +30,6 @@ Mar. 2016 - Feb. 2022
 
 
 <!-- ## Awards & Honors -->
-<!-- - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 203**</a> \\
-Google Explore Computer Science Research, 2023
-- <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">**Top Reviewer**</a> \\
-NeurIPS, 2022
-- <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
-One of the five recipients from Republic of Korea, 2022
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 2022**</a> \\
-Google Explore Computer Science Research, 2022
-- **The Best Presentation Award** \\
-KAIST-Korea Agency for Defence Development Workshop, 2021 -->
 <!-- - **Best Paper Award (President's prize)** \\
 University of Seoul, 2023
 - **Outstanding Presentation Award (Top-2), Data and AI-driven Chemicals Management Workshop** \\
@@ -69,12 +42,7 @@ Dept. of Statistics, University of Seoul, 2021
 Dept. of Statistics, University of Seoul, 2020 -->
 
 
-<!-- ## Work Experiences
-- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**MetaAI**</a>, Seattle, WA (Aug 2022 - Dec 2022)  
-- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
-- Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
-- Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015) -->
-
+<!-- ## Work Experiences -->
 
 ## Publications (International Conference)
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
@@ -92,16 +60,8 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 <!-- ## Domestic Conference Publication
 
-- **Learning Spatial Relationships for Cross Modal Retrieval** \\
-<u>Hayeon Lee*</u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
-CKAIA 2020
-
-
 ## Workshop Publication
-- **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
-<a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
-AutoML 2022 Workshop -->
+ -->
 
 
 ## Preprint
@@ -135,44 +95,12 @@ Seyun Bae, Hoyoon Byun, <u>Changdea Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Junhyuk So\*, <u>Changdea Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
 
-
-<!-- ## Invited Talks
-- **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
-  - @ Samsung Electronics DS DIT Center, Korea, April 2021
-  - @ Korea Agency for Defence Development, Korea, October 2021
-  
-- **"Task-Adaptive Neural Network Search with Meta-Contrastive Learning"** \\
-  - @ NeurIPS Social: ML in Korea, Dec 2021
-  - @ Hanbat National University in Republic of Korea, April 2022
-  - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
-  - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
-
-- **"HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning"** \\
-  - @ NeurIPS Social: ML in Republic of Korea, Dec 2021
-  - @ Hanbat National University in Republic of Korea, April 2022
-  - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
-  - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
-  - @ Ewha University in Republic of Korea, June 2022 -->
-  
-<!-- 
-## News Articles
-- <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
-- <a href="http://www.aitimes.com/news/articleView.html?idxno=144306" style="color: #7289da; text-decoration: none;">"NeurIPS에 소개된 국내 연구 성과는?" EIRIC, 5월부터 리뷰 세미나 개최</a>, AI Times, 2022.04.27 -->
-
+<!-- ## Invited Talks -->
 
 <!-- ## Academic Services
 **Conference Reviewer**
-- **ICML** 2020, 2021 (expert), 2022, 2023
-- **NeurIPS** 2020, 2021, 2022
-- **ICLR** 2021, 2022, 2023
-- **ACL** 2022 Dec ARR.
-- **CVPR** 2023
-- **AAAI** 2021
-- **ACML** 2020 -->
-
-<!-- 
-**Journal Reviewer**
-- **Transactions on Machine Learning Research (TMLR)** -->
+- 
+- **KDD** Student Volunteer, 2022 -->
 
 
 ## Projects
