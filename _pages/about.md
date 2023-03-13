@@ -105,8 +105,8 @@ AutoML 2022 Workshop -->
 
 
 ## Preprint
-- **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
-<u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song
+<!-- - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
+<u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song -->
 
 - **Recycling Deep Learning Models for Few-shot Radiographic Image Analysis** \\
 Hoyoon Byun, <u>Changdae Oh</u>, Taero Kim, Hojun Park, Jaehun Jung, Kyungwoo Song
