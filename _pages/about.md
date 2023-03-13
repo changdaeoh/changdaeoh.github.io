@@ -83,7 +83,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 <span style="color:darkred">**CVPR**</span> 2023
 
 - **Learning Fair Representation via Distributional Contrastive Disentanglement** \\
-<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #0DDD94; text-decoration: none;">[paper]</a> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/changdaeoh/FarconVAE" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Heeji Won, Junhyuk So, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song \\
 <span style="color:darkred">**KDD**</span> 2022
@@ -119,10 +119,10 @@ Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, Kyungwoo Song
  
 - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4371884" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Hyeji Hwang\*, <u>Changdae Oh\*</u>, Eunkyeong Lee, Taero Kim, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
+Hyeji Hwang\*, <u>Changdae Oh</u>\*, Eunkyeong Lee, Taero Kim, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
   
 - **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
-Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh\*</u>, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
+Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
 
 - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
 Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdea Oh</u>, Kyungwoo Song
@@ -133,7 +133,7 @@ Seyun Bae, Hoyoon Byun, <u>Changdea Oh</u>, Yoon-Sik Cho, Kyungwoo Song
   
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Junhyuk So\*, <u>Changdea Oh\*</u>, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
+Junhyuk So\*, <u>Changdea Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
 
 
 <!-- ## Invited Talks
