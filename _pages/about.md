@@ -39,7 +39,7 @@ Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral P
 <!-- - **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
 Mar. 2018 - Aug. 2023 (expected) -->
   
-- **M.S.** in Artificial, Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
+- **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
 Mar. 2022 - Feb. 2024 (expected)
 
 - **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
