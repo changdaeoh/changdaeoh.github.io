@@ -1,50 +1,183 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #0DDD94; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #0DDD94; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #0DDD94; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). 
+<!-- I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>. -->
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interest includes:
+- Robust Fine-tuning of Large-scale Models
+- Debiased Representation Learning
+- Multimodal Learning
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<!-- ## News
+Feb. 2023. One paper accepted to **CVPR 2023** \\
+Feb. 2023. Outstanding paper award at University of Seoul \\
+May. 2022. One paper accepted to **KDD 2022** -->
+<!-- Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
+Oct. 2022. NeurIPS2022 Top reviewer \\
+Sep. 2022. **Google Ph.D. fellowship** \\
+Aug. 2022. Research internship at **MetaAI**, Seattle, WA, USA \\
+Feb. 2022. **AI/CS/EE Rising star 2022** supported by Google Explore Computer Science Research \\
+Oct. 2021. Best presentation award at KAIST-ADD workshop \\
+Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
+Apr. 2021. Invited talk at Samsung, Suwon, South Korea \\
+Jan. 2021. One paper accepted to **ICLR 2021** \\
+Dec. 2020. Research internship at AITRICS, Seoul, South Korea \\
+Dec. 2020. ICML2020 oustanding reviewer (Top 30%) \\
+Nov. 2020. NAVER Ph.D. fellowship \\
+Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
+ -->
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Education
+<!-- - **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+Mar. 2018 - Aug. 2023 (expected) -->
+  
+- **M.S.** in Artificial, Intelligence, <a href="https://english.uos.ac.kr/" style="color: #0DDD94; text-decoration: none;">**University of Seoul (UOS)**</a> \\
+Mar. 2022 - Feb. 2024 (expected)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #0DDD94; text-decoration: none;">**University of Seoul (UOS)**</a> \\
+Mar. 2016 - Feb. 2022
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+<!-- ## Awards & Honors -->
+<!-- - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 203**</a> \\
+Google Explore Computer Science Research, 2023
+- <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">**Top Reviewer**</a> \\
+NeurIPS, 2022
+- <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
+One of the five recipients from Republic of Korea, 2022
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 2022**</a> \\
+Google Explore Computer Science Research, 2022
+- **The Best Presentation Award** \\
+KAIST-Korea Agency for Defence Development Workshop, 2021 -->
+<!-- - **Best Paper Award (President's prize)** \\
+University of Seoul, 2023
+- **Outstanding Presentation Award (Top-2), Data and AI-driven Chemicals Management Workshop** \\
+University of Seoul, 2023
+- **Student Travel Awards** \\
+KDD, 2022 -->
+<!-- - **Academic Excellence Scholarship (Top 5%)** \\
+Dept. of Statistics, University of Seoul, 2021
+- **Academic Excellence Scholarship (Top 5%)** \\
+Dept. of Statistics, University of Seoul, 2020 -->
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<!-- ## Work Experiences
+- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**MetaAI**</a>, Seattle, WA (Aug 2022 - Dec 2022)  
+- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
+- Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
+- Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015) -->
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Publications (International Conference)
+- **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
+[paper] <a href="https://github.com/changdaeoh/BlackVIP" style="color: #0DDD94; text-decoration: none;">[code]</a> \\
+<u>Changdae Oh<\u>, Hyeji Hwang, Hee-young Lee, Yongtaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
+<span style="color:darkred">**CVPR**</span> 2023
+
+- **Learning Fair Representation via Distributional Contrastive Disentanglement** \\
+<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #0DDD94; text-decoration: none;">[paper]</a> 
+<a href="https://github.com/changdaeoh/FarconVAE" style="color: #0DDD94; text-decoration: none;">[code]</a> \\
+<u>Changdae Oh<\u>, Heeji Won, Junhyuk So, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song \\
+<span style="color:darkred">**KDD**</span> 2022
+  
+<!--   , <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%)  -->
+
+<!-- ## Domestic Conference Publication
+
+- **Learning Spatial Relationships for Cross Modal Retrieval** \\
+<u>Hayeon Lee*</u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
+CKAIA 2020
+
+
+## Workshop Publication
+- **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
+<a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
+AutoML 2022 Workshop -->
+
+
+## Preprint
+- **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
+<u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song
+
+- **Recycling Deep Learning Models for Few-shot Radiographic Image Analysis** \\
+Hoyoon Byun, <u>Changdae Oh</u>, Taero Kim, Hojun Park, Jaehun Jung, Kyungwoo Song
+
+- **Multimodal Learning for Social Event Analysis** \\
+<u>Changdae Oh<\u>, Hoyoon Byun, Minhoi Park, Yongtaek Lim, Kyungwoo Song
+
+- **Interpolation-based Training-free Out-of-distribution Detection** \\
+Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh<\u>, Kyungwoo Song
+ 
+- **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4371884" style="color: #0DDD94; text-decoration: none;">[paper]</a> \\
+Hyeji Hwang\*, <u>Changdae Oh\*<\u>, Eunkyeong Lee, Taero Kim, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
+  
+- **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
+Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh\*<\u>, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
+
+- **Robust Contrastive Learning with Dynamic Mixed Margin** \\
+Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdea Oh<\u>, Kyungwoo Song
+
+- **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
+<a href="https://arxiv.org/abs/2209.06418" style="color: #0DDD94; text-decoration: none;">[paper]</a> \\
+Seyun Bae, Hoyoon Byun, <u>Changdea Oh<\u>, Yoon-Sik Cho, Kyungwoo Song
+  
+- **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
+<a href="https://arxiv.org/abs/2203.03897" style="color: #0DDD94; text-decoration: none;">[paper]</a> \\
+Junhyuk So\*, <u>Changdea Oh\*</u>, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
+
+
+<!-- ## Invited Talks
+- **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
+  - @ Samsung Electronics DS DIT Center, Korea, April 2021
+  - @ Korea Agency for Defence Development, Korea, October 2021
+  
+- **"Task-Adaptive Neural Network Search with Meta-Contrastive Learning"** \\
+  - @ NeurIPS Social: ML in Korea, Dec 2021
+  - @ Hanbat National University in Republic of Korea, April 2022
+  - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
+  - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
+
+- **"HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning"** \\
+  - @ NeurIPS Social: ML in Republic of Korea, Dec 2021
+  - @ Hanbat National University in Republic of Korea, April 2022
+  - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
+  - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
+  - @ Ewha University in Republic of Korea, June 2022 -->
+  
+<!-- 
+## News Articles
+- <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
+- <a href="http://www.aitimes.com/news/articleView.html?idxno=144306" style="color: #7289da; text-decoration: none;">"NeurIPS에 소개된 국내 연구 성과는?" EIRIC, 5월부터 리뷰 세미나 개최</a>, AI Times, 2022.04.27 -->
+
+
+<!-- ## Academic Services
+**Conference Reviewer**
+- **ICML** 2020, 2021 (expert), 2022, 2023
+- **NeurIPS** 2020, 2021, 2022
+- **ICLR** 2021, 2022, 2023
+- **ACL** 2022 Dec ARR.
+- **CVPR** 2023
+- **AAAI** 2021
+- **ACML** 2020 -->
+
+<!-- 
+**Journal Reviewer**
+- **Transactions on Machine Learning Research (TMLR)** -->
+
+
+## Projects
+- Education Contents Analysis and Relation Extraction, <a href="http://www.jointips.or.kr/about_en.php" style="color: #0DDD94; text-decoration: none;">TIPS<\a>, Dec. 2022 - present
+- Education Contents Relationship Analysis with Multimodal Learning, AI Digital Innovation Sharing University, Dec. 2022 - Jan. 2023
+- Multi-purpose Technology Commercialization Documents Recommendation, <a href="https://www.kisti.re.kr/eng/" style="color: #0DDD94; text-decoration: none;">KISTI<\a>, Mar. 2022 - Nov. 2022
+- Epidemiological Relevance Evaluation Technology for Vaccination Reactions, <a href="https://www.mfds.go.kr/eng/index.do" style="color: #0DDD94; text-decoration: none;">Ministry of Food and Drug Safety<\a>, Mar. 2022 - present
+- Keyword Extraction for Technology Commercialization Documents, <a href="https://www.kisti.re.kr/eng/" style="color: #0DDD94; text-decoration: none;">KISTI<\a>, June. 2021 - Oct. 2021
