@@ -79,7 +79,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 ## Publications (International Conference)
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 [paper] <a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<u>Changdae Oh</u>, Hyeji Hwang, Hee-young Lee, Yongtaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
+<u>Changdae Oh</u>, Hyeji Hwang, Hee-young Lee, YongTaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
 <span style="color:darkred">**CVPR**</span> 2023
 
 - **Learning Fair Representation via Distributional Contrastive Disentanglement** \\
@@ -112,7 +112,7 @@ AutoML 2022 Workshop -->
 Hoyoon Byun, <u>Changdae Oh</u>, Taero Kim, Hojun Park, Jaehun Jung, Kyungwoo Song
 
 - **Multimodal Learning for Social Event Analysis** \\
-<u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, Yongtaek Lim, Kyungwoo Song
+<u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Kyungwoo Song
 
 - **Interpolation-based Training-free Out-of-distribution Detection** \\
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, Kyungwoo Song
