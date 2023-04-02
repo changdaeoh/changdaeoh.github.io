@@ -16,10 +16,11 @@ My research interest includes:
 - Debiased Representation Learning
 - Multimodal Learning
 
-<!-- ## News
+## News
+Mar. 2023. Selected as a finalist in the **CMU**'s AI-intensive program (23.09 ~ 24.02) supported by Sogang University and IITP \\
 Feb. 2023. One paper accepted to **CVPR 2023** \\
-Feb. 2023. Outstanding paper award at University of Seoul \\
-May. 2022. One paper accepted to **KDD 2022** -->
+Feb. 2023. Outstanding paper award (top prize) at University of Seoul \\
+May. 2022. One paper accepted to **KDD 2022**
 
 ## Education
 - **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
