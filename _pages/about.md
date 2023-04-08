@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). 
-<!-- I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>. -->
 
 My research interest includes:
 - Robust Fine-tuning of Large-scale Models
@@ -17,7 +16,7 @@ My research interest includes:
 - Multimodal Learning
 
 ## News
-Mar. 2023. Selected as a finalist in the **CMU**'s AI-intensive program (23.09 ~ 24.02) supported by Sogang University and IITP \\
+Mar. 2023. Selected as a finalist for an AI-intensive program at **Carnegie Mellon University** (23.09 ~ 24.02) supported by Sogang University and IITP \\
 Feb. 2023. One paper accepted to **CVPR 2023** \\
 Feb. 2023. Outstanding paper award (top prize) at University of Seoul \\
 May. 2022. One paper accepted to **KDD 2022**
