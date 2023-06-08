@@ -44,9 +44,9 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 <!-- ## Work Experiences -->
 
-## Publications (<span style="color:darkred">**C**</span>, <span style="color: #3700FF">**J**</span>)
+## Publications (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
 - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
-Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdea Oh</u>, Kyungwoo Song \\
+Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
 <span style="color: #3700FF">**IEEE Access**</span> 2023
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
@@ -90,11 +90,11 @@ Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Le
 
 - **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
 <a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Seyun Bae, Hoyoon Byun, <u>Changdea Oh</u>, Yoon-Sik Cho, Kyungwoo Song
+Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
   
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Junhyuk So\*, <u>Changdea Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
+Junhyuk So\*, <u>Changdae Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
 
 <!-- ## Invited Talks -->
 
