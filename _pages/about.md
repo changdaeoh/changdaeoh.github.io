@@ -47,7 +47,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 ## Publications (🟥: Conference, 🟦: Journal)
 - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
 Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdea Oh</u>, Kyungwoo Song \\
-<span style="color: #4C00FF">**IEEE ACCESS**</span> 2023
+<span style="color: #3700FF">**IEEE ACCESS**</span> 2023
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a> \\
