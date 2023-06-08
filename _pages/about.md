@@ -44,7 +44,11 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 <!-- ## Work Experiences -->
 
-## Publications (International Conference)
+## Publications
+- **Robust Contrastive Learning with Dynamic Mixed Margin** \\
+Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdea Oh</u>, Kyungwoo Song \\
+<span style="color:darkred">**IEEE ACCESS**</span> 2023
+
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Hyeji Hwang, Hee-young Lee, YongTaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
@@ -83,9 +87,6 @@ Hyeji Hwang\*, <u>Changdae Oh</u>\*, Eunkyeong Lee, Taero Kim, Yewon Kim, Yunjeo
   
 - **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
 Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
-
-- **Robust Contrastive Learning with Dynamic Mixed Margin** \\
-Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdea Oh</u>, Kyungwoo Song
 
 - **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
 <a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
