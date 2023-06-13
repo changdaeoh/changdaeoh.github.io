@@ -44,8 +44,11 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 <!-- ## Work Experiences -->
 
-## Publications (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
+## Publications
+(<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
+
 - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
+[paper] <a href="https://github.com/teang1995/DMM" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
 <span style="color: #3700FF">**IEEE Access**</span> 2023
 
