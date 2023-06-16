@@ -11,7 +11,7 @@ redirect_from:
 I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). 
 
 My research interest includes:
-- Robust Fine-tuning of Large-scale Models
+- Robust Adaptation of Large-scale Models
 - Debiased Representation Learning
 - Multimodal Learning
 
@@ -71,7 +71,7 @@ Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
  -->
 
 
-## Preprint
+## Preprints
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song
 
