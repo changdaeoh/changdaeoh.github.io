@@ -16,7 +16,7 @@ My research interest includes:
 - Multimodal Learning
 
 ## News
-Mar. 2023. Selected as a <a href="https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD202300000018" style="color: #009B8B; text-decoration:none">**CMU AI Intensive Program Scholarship Recipient**</a> \\
+Mar. 2023. Selected as a **CMU AI Intensive Program Scholarship Recipient** \\
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> \\
 Feb. 2023. Outstanding paper award (top prize) at University of Seoul \\
 May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a>
