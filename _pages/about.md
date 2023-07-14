@@ -100,7 +100,7 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
   
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Junhyuk So\*, <u>Changdae Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
+Junhyuk So\*, <u>Changdae Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
 
 <!-- ## Invited Talks -->
 
