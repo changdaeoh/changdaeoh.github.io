@@ -45,7 +45,7 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 <!-- ## Work Experiences -->
 
-## Publications
+## Publications (International)
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
 
 - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
@@ -63,7 +63,12 @@ Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
 <a href="https://github.com/changdaeoh/FarconVAE" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Heeji Won, Junhyuk So, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song \\
 <span style="color:darkred">**KDD**</span> 2022
-  
+
+## Publications (Domestic)
+- **Pre-trained Models Ensembling for Domain Generalization in Chemistry Classification** \\
+Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang and Kyungwoo Song \\
+CKAIA 2023
+
 <!--   , <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%)  -->
 
 <!-- ## Domestic Conference Publication
@@ -71,13 +76,9 @@ Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
 ## Workshop Publication
  -->
 
-
 ## Preprints
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song
-
-- **Recycling Deep Learning Models for Few-shot Radiographic Image Analysis** \\
-Hoyoon Byun, <u>Changdae Oh</u>, Taero Kim, Hojun Park, Jaehun Jung, Kyungwoo Song
 
 - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Kyungwoo Song
@@ -98,7 +99,7 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
   
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Junhyuk So\*, <u>Changdae Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
+Junhyuk So\*, <u>Changdae Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
 
 <!-- ## Invited Talks -->
 
