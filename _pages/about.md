@@ -18,7 +18,7 @@ I'm interested in establishing some fundamental algorithms for robust training a
 
 ## News
 Jun. 2023. One paper accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style="color: #009B8B; text-decoration:none">**IEEE Access**</a> \\
-Mar. 2023. Selected as a **CMU AI Intensive Program Scholarship Recipient** (Visiting Student, Aug 2023 ~ Feb 2024) \\
+Mar. 2023. Selected as a **CMU AI Intensive Program Scholarship Recipient** (Visiting Scholar, Aug 2023 ~ Feb 2024) \\
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> \\
 Feb. 2023. Outstanding paper award (top prize) at University of Seoul \\
 May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a>
