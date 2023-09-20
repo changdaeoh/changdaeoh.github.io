@@ -25,7 +25,7 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 
 ## Education
 - **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
-Mar. 2022 - Feb. 2024 (expected)
+Mar. 2022 - Aug. 2024 (expected)
 
 - **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
 Mar. 2016 - Feb. 2022
