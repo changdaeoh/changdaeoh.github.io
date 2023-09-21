@@ -51,7 +51,6 @@ Dept. of Statistics, University of Seoul, 2020 -->
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
-<a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
 <span style="color:darkred">**NeurIPS**</span> 2023
 
