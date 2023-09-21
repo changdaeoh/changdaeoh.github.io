@@ -52,7 +52,8 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
+<u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
+<span style="color:darkred">**NeurIPS**</span> 2023
 
 - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
 <a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/teang1995/DMM" style="color: #009B8B; text-decoration: none;">[code]</a> \\
