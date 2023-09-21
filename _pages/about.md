@@ -17,6 +17,7 @@ I'm interested in establishing some fundamental algorithms for robust training a
 - Multimodal Learning
 
 ## News
+Sep. 2023. One paper accepted to <a href="https://nips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023**</a> \\
 Jun. 2023. One paper accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style="color: #009B8B; text-decoration:none">**IEEE Access**</a> \\
 Mar. 2023. Selected as a **CMU AI Intensive Program Scholarship Recipient** (Visiting Scholar, Aug 2023 ~ Feb 2024) \\
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> \\
@@ -48,6 +49,10 @@ Dept. of Statistics, University of Seoul, 2020 -->
 
 ## Publications (International)
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
+
+- **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
+<a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
 
 - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
 <a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/teang1995/DMM" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -97,10 +102,6 @@ Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Le
 - **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
 <a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
-  
-- **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
-<a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Junhyuk So\*, <u>Changdae Oh</u>\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song
 
 <!-- ## Invited Talks -->
 
