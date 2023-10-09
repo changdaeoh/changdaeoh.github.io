@@ -90,7 +90,7 @@ Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Le
 <a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 
-## Awards & Honors
+## Awards & Scholarships
 - **Travel Awards (DEI Scholarship)** \\
 CVPR 2023, Apr. 2023
 - **AI Intensive Program Scholarship at Carnegie Mellon University** (USD 41K) \\
