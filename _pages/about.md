@@ -21,7 +21,7 @@ Sep. 2023. One paper accepted to <a href="https://nips.cc/" style="color: #009B8
 Jun. 2023. One paper accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style="color: #009B8B; text-decoration:none">**IEEE Access**</a> \\
 Mar. 2023. Selected as a <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> **AI Intensive Program Scholarship Recipient** (Visiting Scholar, Aug 2023 ~ Feb 2024) \\
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> \\
-Feb. 2023. Outstanding paper award (top prize) at University of Seoul \\
+Feb. 2023. Outstanding paper award (1st place) at University of Seoul \\
 May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a>
 
 ## Education
@@ -91,19 +91,19 @@ Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Le
 Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 
 ## Awards & Scholarships
-- **Travel Awards (DEI Scholarship)** \\
+- **DEI Scholarship Travel Awards** \\
 CVPR, Apr. 2023
-- (Scholarship) **AI Intensive Program at Carnegie Mellon University** (USD 41K) \\
+- (Scholarship; USD 41K) **AI Intensive Program at Carnegie Mellon University** \\
 IITP and Sogang University, Mar. 2023 
-- (1st place) **Outstanding Paper Award (President's prize)** \\
+- (1st place) **Outstanding Paper Award, President's prize** \\
 University of Seoul, Feb. 2023
 - (2nd place) **Presentation Award, Workshop on Data-Driven Chemicals Management** \\
 University of Seoul, Feb. 2023
 - **Student Travel Awards** \\
 KDD, Jul. 2022 
-- **Academic Excellence Scholarship** \\
+- **Academic Excellence Scholarship (half-tuition)** \\
 University of Seoul, Feb. 2021
-- **Academic Excellence Scholarship** \\
+- **Academic Excellence Scholarship (half-tuition)** \\
 University of Seoul, Aug. 2020
 
 <!-- ## Invited Talks -->
