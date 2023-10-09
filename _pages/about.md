@@ -91,13 +91,13 @@ Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Le
 Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 
 ## Awards & Honors
-- Travel Awards (DEI Scholarship) \\
+- **Travel Awards (DEI Scholarship)** \\
 CVPR 2023, Apr. 2023
-- AI Intensive Program Scholarship at Carnegie Mellon University (USD 41K) \\
+- **AI Intensive Program Scholarship at Carnegie Mellon University** (USD 41K) \\
 IITP and Sogang University, Mar. 2023 
-- **1st place, Outstanding Paper Award (President's prize)** \\
+- (1st place) **Outstanding Paper Award (President's prize)** \\
 University of Seoul, Feb. 2023
-- **2nd place, Presentation Award, Data and AI-driven Chemicals Management Workshop** \\
+- (2nd place) **Presentation Award, Workshop on Data-Driven Chemicals Management** \\
 University of Seoul, Feb. 2023
 - **Student Travel Awards** \\
 KDD 2022, Jul. 2022 
