@@ -11,7 +11,7 @@ redirect_from:
 I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). 
 
 
-I'm interested in establishing some fundamental algorithms for robust training and efficient adaptation of large neural networks on various data modalities, and their real-world applications in specific domains such as education and medicine. Topics of interest:
+I'm interested in establishing some fundamental algorithms for robust adaptation of large-scale models on various data modalities, and their real-world applications in specific domains such as education and medicine. Topics of interest:
 - Robust Adaptation of Large-scale Models
 - Debiased Representation Learning
 - Multimodal Learning
@@ -73,8 +73,11 @@ CKAIA 2023
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song
 
+- **Bibimbap: Pre-trained Models Ensemble for Domain Generalization** \\
+Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song
+
 - **Multimodal Learning for Social Event Analysis** \\
-<u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Kyungwoo Song
+<u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song
 
 - **Interpolation-based Training-free Out-of-distribution Detection** \\
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, Kyungwoo Song
@@ -90,31 +93,33 @@ Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Le
 <a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 
+(* equal contribution)
+
 ## Awards & Scholarships
-- **DEI Scholarship Travel Awards** \\
-CVPR, Apr. 2023
-- (Scholarship; USD 41K) **AI Intensive Program at Carnegie Mellon University** \\
-IITP and Sogang University, Mar. 2023 
-- (1st place) **Outstanding Paper Award, President's prize** \\
-University of Seoul, Feb. 2023
-- (2nd place) **Presentation Award, Workshop on Data-Driven Chemicals Management** \\
-University of Seoul, Feb. 2023
-- **Student Travel Awards** \\
-KDD, Jul. 2022 
-- **Academic Excellence Scholarship (half-tuition)** \\
-University of Seoul, Feb. 2021
-- **Academic Excellence Scholarship (half-tuition)** \\
-University of Seoul, Aug. 2020
+- **DEI Scholarship Travel Awards**, CVPR, Apr. 2023
+- (Scholarship; USD 41K) **AI Intensive Program at Carnegie Mellon University**, IITP and Sogang University, Mar. 2023 
+- (1st place) **Outstanding Paper Award, President's prize**, University of Seoul, Feb. 2023
+- (2nd place) **Presentation Award, Workshop on Data-Driven Chemicals Management**, University of Seoul, Feb. 2023
+- **Student Travel Awards**, KDD, Jul. 2022 
+- **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Feb. 2021
+- **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020
 
 <!-- ## Invited Talks -->
-
-<!-- ## Academic Services 
-- **KDD** Student Volunteer, 2022 -->
-
-
 ## Projects
-- Education Contents Analysis and Relation Extraction, <a href="http://www.jointips.or.kr/about_en.php" style="color: #009B8B; text-decoration: none;">TIPS</a>, Dec. 2022 - Aug. 2023
-- Education Contents Relationship Analysis with Multimodal Learning, AI Digital Innovation Sharing University, Dec. 2022 - Jan. 2023
+### Carnegie Mellon University
+- Robust Fine-Tuning of Visual Foundation Models, Large-Scale Multimedia Analysis 11-775 2023f Course Project, Sep. 2023 - Present
+- Multimodal Neurons Analysis, Introduction to Deep Learning 11-785 2023f Course Project, Sep. 2023 - Present
+   
+### University of Seoul
+- Education Contents Relationship Analysis with Multimodal Learning, <a href="http://www.jointips.or.kr/about_en.php" style="color: #009B8B; text-decoration: none;">TIPS</a>, Dec. 2022 - Aug. 2023
+  - *related papers: Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information (preprint)*
+- Multimodal Learning for Social Event Analysis, <a href="https://hustlers.oopy.io/" style="color: #009B8B; text-decoration: none;">HUSTLERS Corp.</a>, Oct. 2022 - Dec. 2022
+  - *related papers: Multimodal Learning for Social Event Analysis (preprint)*
 - Multi-purpose Technology Commercialization Documents Recommendation, <a href="https://www.kisti.re.kr/eng/" style="color: #009B8B; text-decoration: none;">KISTI</a>, Mar. 2022 - Nov. 2022
+  - *related papers: Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model (preprint)*
 - Epidemiological Relevance Evaluation Technology for Vaccination Reactions, <a href="https://www.mfds.go.kr/eng/index.do" style="color: #009B8B; text-decoration: none;">Ministry of Food and Drug Safety</a>, Mar. 2022 - Aug. 2023
 - Keyword Extraction for Technology Commercialization Documents, <a href="https://www.kisti.re.kr/eng/" style="color: #009B8B; text-decoration: none;">KISTI</a>, June. 2021 - Oct. 2021
+  - *related papers: TC-BERT: Large-scale Language Model for Korean Technology Documents (preprint)*
+
+## Academic Services 
+- **KDD** Student Volunteer, 2022
