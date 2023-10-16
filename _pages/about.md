@@ -11,7 +11,7 @@ redirect_from:
 I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). 
 
 
-I'm interested in establishing some fundamental algorithms for robust adaptation of large-scale models on various data modalities, and their real-world applications in specific domains such as education and medicine. Topics of interest:
+I'm working on establishing some fundamental algorithms for robust adaptation of large-scale models on various data modalities, and their real-world applications in specific domains such as education and medicine. Topics of interest:
 - Robust Adaptation of Large-scale Models
 - Debiased Representation Learning
 - Multimodal Learning
