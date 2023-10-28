@@ -17,6 +17,7 @@ For real-world AI applications, I think robustness, reliability, and multimodali
 - Multimodal Learning
 
 ## News
+Oct. 2023. One paper accepted to <a href="https://sites.google.com/view/distshift2023/home?authuser=0/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023 Workshop DistShift**</a> \\
 Sep. 2023. One paper accepted to <a href="https://nips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023**</a> \\
 Jun. 2023. One paper accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style="color: #009B8B; text-decoration:none">**IEEE Access**</a> \\
 Mar. 2023. Selected as a <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> **AI Intensive Program Scholarship Recipient** (Visiting Scholar, Aug 2023 ~ Feb 2024) \\
