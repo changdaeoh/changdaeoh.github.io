@@ -100,15 +100,6 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 
 (* equal contribution)
 
-## Awards & Scholarships
-- **DEI Scholarship Travel Awards**, CVPR, Apr. 2023
-- (Scholarship; USD 41K) **AI Intensive Program at Carnegie Mellon University**, IITP and Sogang University, Mar. 2023 
-- (1st place) **Outstanding Paper Award, President's prize**, University of Seoul, Feb. 2023
-- (2nd place) **Presentation Award, Workshop on Data-Driven Chemicals Management**, University of Seoul, Feb. 2023
-- **Student Travel Awards**, KDD, Jul. 2022 
-- **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Feb. 2021
-- **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020
-
 <!-- ## Invited Talks -->
 ## Projects
 ### Carnegie Mellon University
@@ -133,6 +124,15 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 - Keyword Extraction for Technology Commercialization Documents
   - <a href="https://www.kisti.re.kr/eng/" style="color: #009B8B; text-decoration: none;">KISTI</a>, June. 2021 - Oct. 2021
   - *related papers: TC-BERT: Large-scale Language Model for Korean Technology Documents (preprint)*
+
+## Awards & Scholarships
+- **DEI Scholarship Travel Awards**, CVPR, Apr. 2023
+- (Scholarship; USD 41K) **AI Intensive Program at Carnegie Mellon University**, IITP and Sogang University, Mar. 2023 
+- (1st place) **Outstanding Paper Award, President's prize**, University of Seoul, Feb. 2023
+- (2nd place) **Presentation Award, Workshop on Data-Driven Chemicals Management**, University of Seoul, Feb. 2023
+- **Student Travel Awards**, KDD, Jul. 2022 
+- **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Feb. 2021
+- **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020
 
 ## Academic Services 
 - **KDD** Student Volunteer, 2022
