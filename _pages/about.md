@@ -44,6 +44,7 @@ NeurIPS 2023 Workshop <span style="color:gold">**DistShift**</span>
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
+<a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/multimodal-mixup" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2023
 
 - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
