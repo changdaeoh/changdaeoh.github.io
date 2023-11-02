@@ -39,7 +39,7 @@ Mar. 2016 - Feb. 2022
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, <span style="color:gold">*workshop*</span>)
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
-<u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Kyungwoo Song \\
+<u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Zhi-Qi Cheng, Kyungwoo Song \\
 NeurIPS 2023 Workshop <span style="color:gold">**DistShift**</span>
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
