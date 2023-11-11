@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). Currently, I'm studying at <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">Carnegie Mellon University</a> as a visiting scholar.
+I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). Currently, I'm studying at <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> as a visiting scholar.
 
 
 For real-world AI applications, I think robustness, reliability, and multimodality are crucial to our intelligence system. To this end, I've been working on a robust adaptation of foundation models, multimodal representation learning, and model debiasing & calibration. Topics of interest:
