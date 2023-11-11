@@ -11,8 +11,8 @@ redirect_from:
 I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). 
 
 
-For real-world AI applications, I think robustness, reliability, and multimodality are crucial to our intelligence system. To this end, I've been working on a robust adaptation of large-scale models, multimodal representation learning, and model debiasing and calibration. Topics of interest:
-- Robust Adaptation of Large-scale Models
+For real-world AI applications, I think robustness, reliability, and multimodality are crucial to our intelligence system. To this end, I've been working on a robust adaptation of foundation models, multimodal representation learning, and model debiasing & calibration. Topics of interest:
+- Robust and Efficient Adaptation of Foundation Models
 - Debiased Representation Learning
 - Multimodal Learning
 
@@ -35,13 +35,13 @@ Mar. 2016 - Feb. 2022
 
 <!-- ## Work Experiences -->
 
-## Publications (International)
-(<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, <span style="color:gold">*workshop*</span>)
+## Publication (International)
+(<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-NeurIPS 2023 Workshop <span style="color:gold">**DistShift**</span>
+NeurIPS 2023 Workshop, **DistShift**
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
@@ -64,7 +64,7 @@ Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
 <u>Changdae Oh</u>, Heeji Won, Junhyuk So, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song \\
 <span style="color:darkred">**KDD**</span> 2022
 
-## Publications (Domestic)
+## Publication (Domestic)
 - **Pre-trained Models Ensembling for Domain Generalization in Chemistry Classification** \\
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
 CKAIA 2023
