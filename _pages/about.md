@@ -106,10 +106,14 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 ## Projects
 ### Carnegie Mellon University
 - Robust Fine-Tuning of Visual Foundation Models
-  - <a href="https://zhiqic.github.io/CMU-2023-Fall-11-775-MultimediaAnalysis/index.html" style="color: #009B8B; text-decoration: none;">Large-Scale Multimedia Analysis 11-775 2023f</a> Course Project, Sep. 2023 - Present
+  - <a href="https://zhiqic.github.io/CMU-2023-Fall-11-775-MultimediaAnalysis/index.html" style="color: #009B8B; text-decoration: none;">Large-Scale Multimedia Analysis 11-775 2023f</a> Course Project, Sep. 2023 - Dec. 2023
   - *related papers: <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">Towards Calibrated Robust Fine-Tuning of Vision-Language Models</a> (NeurIPS 2023 Workshop DistShift)*
-- Revisiting Multimodal Neuron Analysis
-  - <a href="https://deeplearning.cs.cmu.edu/F23/index.html" style="color: #009B8B; text-decoration: none;">Introduction to Deep Learning 11-785 2023f</a> Course Project, Sep. 2023 - Present
+- Delving into the Feature Distortion Effect of Fine-Tuned Visual Foundation Models
+  - <a href="https://deeplearning.cs.cmu.edu/F23/index.html" style="color: #009B8B; text-decoration: none;">Introduction to Deep Learning 11-785 2023f</a> Course Project, Sep. 2023 - Dec. 2023
+- Exploring Prompt Engineering for RNN-based Language Models
+  - <a href="" style="color: #009B8B; text-decoration: none;">Natural Language Processing 11-411/611 2023f</a> Course Project, Sep. 2023 - Dec. 2023
+- AI on the Edge with Robotics (AIER)
+  - <a href="https://execed.isri.cmu.edu/" style="color: #009B8B; text-decoration: none;">Executive & Professional Education Program at S3D</a>, Oct. 2023 - present
    
 ### University of Seoul
 - Education Contents Relationship Analysis with Multimodal Learning
