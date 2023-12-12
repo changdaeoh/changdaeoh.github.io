@@ -141,4 +141,7 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 - **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020
 
 ## Academic Services 
-- **KDD** Student Volunteer, 2022
+- Conference Reviewer
+  - 2024: CVPR
+- Conference Volunteer
+  - 2022: KDD
