@@ -39,7 +39,7 @@ Mar. 2016 - Feb. 2022
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
-<u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Zhi-Qi Cheng, Kyungwoo Song \\
+<u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 NeurIPS 2023 Workshop, **DistShift**
 
