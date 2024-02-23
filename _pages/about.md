@@ -117,7 +117,7 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
   - <a href="" style="color: #009B8B; text-decoration: none;">Natural Language Processing 11-411/611 2023f</a> Course Project, Sep. 2023 - Dec. 2023
 - AI on the Edge with Robotics (AIER)
   - <a href="https://execed.isri.cmu.edu/" style="color: #009B8B; text-decoration: none;">Executive & Professional Education Program at S3D</a>, Oct. 2023 - present
-  - *repository: <a href="https://github.com/IITP-CMU23-aespa/Photograbot" style="color: #009B8B; text-decoration: none;">Photograbot</a> *
+  - *repository: <a href="https://github.com/IITP-CMU23-aespa/Photograbot" style="color: #009B8B; text-decoration: none;">Photograbot</a>*
    
 ### University of Seoul
 - Education Contents Relationship Analysis with Multimodal Learning
