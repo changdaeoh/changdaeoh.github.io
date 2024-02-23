@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). I'm currently a visiting scholar at <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> working under the supervision of <a href="https://www.linkedin.com/in/zhiqicheng/" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>.
-
+I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in UOS/Yonsei, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). I was fortunate enough to work with <a href="https://www.linkedin.com/in/zhiqicheng/" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David R. Mortensen** </a> during my visiting at href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> (Aug 23 ~ Feb 24).
 
 For real-world AI applications, I think robustness, reliability, and multimodality are crucial to our intelligence system. To this end, I've been working on a robust adaptation of foundation models, multimodal representation learning, and model debiasing & calibration. Topics of interest:
 - Robust and Efficient Adaptation of Foundation Models
@@ -77,6 +76,10 @@ CKAIA 2023
  -->
 
 ## Preprints
+- **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
+<a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen
+
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song
 
@@ -114,6 +117,7 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
   - <a href="" style="color: #009B8B; text-decoration: none;">Natural Language Processing 11-411/611 2023f</a> Course Project, Sep. 2023 - Dec. 2023
 - AI on the Edge with Robotics (AIER)
   - <a href="https://execed.isri.cmu.edu/" style="color: #009B8B; text-decoration: none;">Executive & Professional Education Program at S3D</a>, Oct. 2023 - present
+  - *repository: <a href="https://github.com/IITP-CMU23-aespa/Photograbot" style="color: #009B8B; text-decoration: none;">Photograbot</a> *
    
 ### University of Seoul
 - Education Contents Relationship Analysis with Multimodal Learning
