@@ -91,8 +91,8 @@ Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu 
 - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song
 
-- **Interpolation-based Training-free Out-of-distribution Detection** \\
-Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, Kyungwoo Song
+- **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
+Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song
  
 - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4371884" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
