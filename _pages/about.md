@@ -45,7 +45,7 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**NeurIPS**</a> 2023 Workshop, **DistShift**
+<span style="color:darkred">**NeurIPS**</span> 2023 Workshop, **DistShift**
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
