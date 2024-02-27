@@ -40,7 +40,7 @@ Mar. 2016 - Feb. 2022
 
 - **Bibimbap: Pre-trained Models Ensemble for Domain Generalization** \\
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
-<span style="color:#3700FF">***Pattern Recognition**</span> 2024
+<span style="color:#3700FF">**Pattern Recognition**</span> 2024
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
