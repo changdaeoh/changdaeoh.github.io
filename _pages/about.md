@@ -16,6 +16,7 @@ For real-world AI applications, I think robustness, reliability, and multimodali
 - Multimodal Learning
 
 ## News
+Feb. 2024. One paper accepted to <a href="https://www.sciencedirect.com/journal/pattern-recognition" style="color: #009B8B; text-decoration:none">**Pattern Recognition**</a> \\
 Oct. 2023. One paper accepted to <a href="https://sites.google.com/view/distshift2023/home?authuser=0/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023 Workshop DistShift**</a> \\
 Sep. 2023. One paper accepted to <a href="https://nips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023**</a> \\
 Jun. 2023. One paper accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style="color: #009B8B; text-decoration:none">**IEEE Access**</a> \\
@@ -37,10 +38,14 @@ Mar. 2016 - Feb. 2022
 ## Publication (International)
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
 
+- **Bibimbap: Pre-trained Models Ensemble for Domain Generalization** \\
+Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
+<span style="color:#3700FF">***Pattern Recognition**</span> 2024
+
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-NeurIPS 2023 Workshop, **DistShift**
+<span style="color:darkred">NeurIPS</a> 2023 Workshop, **DistShift**
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
@@ -82,9 +87,6 @@ Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu 
 
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song
-
-- **Bibimbap: Pre-trained Models Ensemble for Domain Generalization** \\
-Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song
 
 - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song
