@@ -25,12 +25,12 @@ Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="c
 Feb. 2023. Outstanding paper award (1st place) at University of Seoul \\
 May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a>
 
-## Education
+<!-- ## Education
 - **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
 Mar. 2022 - Aug. 2024 (expected)
 
 - **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
-Mar. 2016 - Feb. 2022
+Mar. 2016 - Feb. 2022 -->
 
 
 <!-- ## Work Experiences -->
