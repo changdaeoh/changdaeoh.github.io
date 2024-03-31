@@ -17,7 +17,7 @@ For real-world AI applications, I think robustness, reliability, and multimodali
 
 ## News
 Apr. 2024. I’m starting my internship at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" style="color: #009B8B; text-decoration:none">**NAVER AI Lab**</a>. \\
-Mar. 2024. I’m joining <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a Ph.D. student in fall 2024. \\
+Mar. 2024. I’m joining <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a Ph.D. student in 2024f. \\
 Feb. 2024. One paper accepted to <a href="https://www.sciencedirect.com/journal/pattern-recognition" style="color: #009B8B; text-decoration:none">**Pattern Recognition**</a> \\
 Oct. 2023. One paper accepted to <a href="https://sites.google.com/view/distshift2023/home?authuser=0/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023 Workshop DistShift**</a> \\
 Sep. 2023. One paper accepted to <a href="https://nips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023**</a> \\
