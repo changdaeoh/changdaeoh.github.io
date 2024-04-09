@@ -16,6 +16,7 @@ For real-world AI applications, I think robustness, reliability, and multimodali
 - Multimodal Learning
 
 ## News
+Apr. 2024. One paper accepted to <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" style="color: #009B8B; text-decoration:none">**Expert Systems with Applications**</a> \\
 Apr. 2024. I’m starting my internship at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" style="color: #009B8B; text-decoration:none">**NAVER AI Lab**</a> \\
 Mar. 2024. I will join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a Ph.D. student in 2024f \\
 Feb. 2024. One paper accepted to <a href="https://www.sciencedirect.com/journal/pattern-recognition" style="color: #009B8B; text-decoration:none">**Pattern Recognition**</a> \\
@@ -39,6 +40,10 @@ Mar. 2016 - Feb. 2022 -->
 
 ## Publication (International)
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
+
+- **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
+<u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song \\
+<span style="color:#3700FF">**Expert Systems with Applications**</span> 2024
 
 - **Bibimbap: Pre-trained Models Ensemble for Domain Generalization** \\
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
@@ -87,9 +92,6 @@ CKAIA 2023
 - **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
 <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen
-
-- **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
-<u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song
 
 - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song
