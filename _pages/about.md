@@ -43,7 +43,7 @@ Mar. 2016 - Feb. 2022 -->
 
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song \\
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/LMgMF/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:#3700FF">**Expert Systems with Applications**</span> 2024
 
 - **Bibimbap: Pre-trained Models Ensemble for Domain Generalization** \\
