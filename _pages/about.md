@@ -42,7 +42,7 @@ Mar. 2016 - Feb. 2022 -->
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
 
 - **First Step for Theoretical and Practical Foundations of Robust Visual Prompting** \\
-Gyeongdeok Seo\*,, <u>Changdae Oh</u>\*, Kyungwoo Song \\
+Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
 <span style="color:darkred">**IJCAI**</span> 2024, The Trustworthy AI Workshop
 
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
