@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a>, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). I was fortunate enough to work with <a href="https://www.linkedin.com/in/zhiqicheng/" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David R. Mortensen** </a> during my visiting at <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> (Aug 23 ~ Feb 24).
 
-For real-world AI applications, I think robustness, reliability, and multimodality are crucial to our intelligence system. To this end, I've been working on a robust adaptation of foundation models, multimodal representation learning, and model debiasing & calibration. Topics of interest:
+For real-world AI applications in the era of foundation models, I think reliability, efficiency, and multimodality are crucial to our intelligence system. To this end, I've been working on an intersection of them. Topics of interest:
 - Robust and Efficient Adaptation of Foundation Models
 - Debiased Representation Learning
 - Multimodal Learning
@@ -41,6 +41,10 @@ Mar. 2016 - Feb. 2022 -->
 ## Publication (International)
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
 
+- **First Step for Theoretical and Practical Foundations of Robust Visual Prompting** \\
+Gyeongdeok Seo\*,, <u>Changdae Oh</u>\*, Kyungwoo Song \\
+<span style="color:darkred">**IJCAI**</span> 2024, The Trustworthy AI Workshop.
+
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song \\
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/LMgMF/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -54,7 +58,7 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2023 Workshop, DistShift
+<span style="color:darkred">**NeurIPS**</span> 2023, Workshop on DistShifts
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
