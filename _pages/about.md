@@ -58,7 +58,7 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2023, Workshop on DistShifts
+<span style="color:darkred">**NeurIPS**</span> 2023, Workshop on Distribution Shifts
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
@@ -134,7 +134,7 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 ### University of Seoul
 - Education Contents Relationship Analysis with Multimodal Learning
   - <a href="http://www.jointips.or.kr/about_en.php" style="color: #009B8B; text-decoration: none;">TIPS</a>, Dec. 2022 - Aug. 2023
-  - *related papers: Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information (preprint)*
+  - *related papers: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information</a>*
 - Multimodal Learning for Social Event Analysis
   - <a href="https://hustlers.oopy.io/" style="color: #009B8B; text-decoration: none;">HUSTLERS Corp.</a>, Oct. 2022 - Dec. 2022
   - *related papers: Multimodal Learning for Social Event Analysis (preprint)*
@@ -158,6 +158,6 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 
 ## Academic Services 
 - Conference Reviewer
-  - 2024: CVPR
+  - 2024: CVPR, NeurIPS
 - Conference Volunteer
   - 2022: KDD
