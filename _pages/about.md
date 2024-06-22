@@ -108,18 +108,18 @@ Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Le
 Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 
 ## Education
-- **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> (advisor: Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a>) \\
+- **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\ advisor: Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a> \\
 Sep. 2024 ~ Present
 
-- **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> (advisor: Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>) \\
+- **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> \\ advisor: Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a> \\
 Mar. 2022 - Aug. 2024
 
 - **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> \\
 Mar. 2016 - Feb. 2022
 
 ## Experience
-***Research Intern***, NAVER AI Lab (Mentor: Dr. <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and Dr. <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>), Apr. 2023 ~ Aug. 2024 \\
-***Visiting Student / Collaborator***, Carnegie Mellon University (Mentor: Dr. <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>), Sep. 2023 ~ Feb. 2024
+***Research Intern***, NAVER AI Lab \\ Mentor: Dr. <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and Dr. <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024 \\
+***Visiting Student / Collaborator***, Carnegie Mellon University \\ Mentor: Dr. <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024
 
 <!-- ## Invited Talks -->
 <!-- ## Projects
