@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. student at <a href="https://mlai.yonsei.ac.kr/" style="color: #009B8B; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a>, under the supervision of <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Jiyoung Jung**</a> (adviser) and <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Prof. Kyungwoo Song**</a> (co-adviser). I was fortunate enough to work with <a href="https://www.linkedin.com/in/zhiqicheng/" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David R. Mortensen** </a> during my visiting at <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> (Aug 23 ~ Feb 24).
+I am an incoming Ph.D. student in Department of Computer Sciences at the <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**University of Wisconsin-Madison**</a>, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a>. Before joining Sharon's group, I obtained my MS degree in Artificial Intelligence at University of Seoul under supervision of Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I had the privilege of working with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during visiting at <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a>, and internship at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" style="color: #009B8B; text-decoration:none">**NAVER AI Lab**</a> allow me to be advised by <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>.
 
-For real-world AI applications in the era of foundation models, I think reliability, efficiency, and multimodality are crucial to our intelligence system. To this end, I've been working on an intersection of them. Topics of interest:
-- Robust and Efficient Adaptation of Foundation Models
-- Debiased Representation Learning
-- Multimodal Learning
+I am broadly interested in machine learning and representation learning. Recently, I have been immersed in realizing reliable AI from the context of large-scale foundation models in the wild. To that end, I have explored the intersection of representation learning, robustness under distribution shift, and efficient transfer learning of foundation models.
 
-## News
+<!-- ### Topics of Interest (papers with overlap)
+* Representation Learning: <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">KDD'22</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">Access'23<>, <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">NeurIPS'23</a>
+* Robustness under Distribution Shifts: <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">KDD'22</a>, <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">NeurIPS'23</a>, <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">NeurIPSW'23</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">PR'24</a>
+* Efficient Transfer Learning of Foundation Models: <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">CVPR'23</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">ESWA'24</a>, <a href="" style="color: #009B8B; text-decoration: none;">IJCAIW'24</a> -->
+
+<!-- ## News
 Apr. 2024. One paper accepted to <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" style="color: #009B8B; text-decoration:none">**Expert Systems with Applications**</a> \\
 Apr. 2024. I’m starting my internship at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" style="color: #009B8B; text-decoration:none">**NAVER AI Lab**</a> \\
 Mar. 2024. I will join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a Ph.D. student in 2024f \\
@@ -26,20 +28,10 @@ Jun. 2023. One paper accepted to <a href="https://ieeexplore.ieee.org/xpl/Recent
 Mar. 2023. Selected as a <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> **AI Intensive Program Scholarship Recipient** (Visiting Scholar, Aug 2023 ~ Feb 2024) \\
 Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> \\
 Feb. 2023. Outstanding paper award (1st place) at University of Seoul \\
-May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a>
+May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a> -->
 
-<!-- ## Education
-- **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
-Mar. 2022 - Aug. 2024 (expected)
-
-- **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul (UOS)**</a> \\
-Mar. 2016 - Feb. 2022 -->
-
-
-<!-- ## Work Experiences -->
-
-## Publication (International)
-(<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>)
+## Publication
+(<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
 
 - **First Step for Theoretical and Practical Foundations of Robust Visual Prompting** \\
 Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
@@ -81,10 +73,10 @@ Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
 <u>Changdae Oh</u>, Heeji Won, Junhyuk So, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song \\
 <span style="color:darkred">**KDD**</span> 2022
 
-## Publication (Domestic)
+<!-- ## Publication (Domestic)
 - **Pre-trained Models Ensembling for Domain Generalization in Chemistry Classification** \\
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
-CKAIA 2023
+CKAIA 2023 -->
 
 <!--   , <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%)  -->
 
@@ -98,27 +90,39 @@ CKAIA 2023
 <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen
 
-- **Multimodal Learning for Social Event Analysis** \\
-<u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song
+<!-- - **Multimodal Learning for Social Event Analysis** \\
+<u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song -->
 
-- **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
-Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song
+<!-- - **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
+Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song -->
  
 - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4371884" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Hyeji Hwang\*, <u>Changdae Oh</u>\*, Eunkyeong Lee, Taero Kim, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
   
-- **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
-Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
+<!-- - **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
+Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song -->
 
 - **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
 <a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
 
-(* equal contribution)
+## Education
+- **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> (advisor: Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a>) \\
+Sep. 2024 ~ Present
+
+- **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> (advisor: Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>) \\
+Mar. 2022 - Aug. 2024
+
+- **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> \\
+Mar. 2016 - Feb. 2022
+
+## Experience
+Research Intern, NAVER AI Lab (Mentor: Dr. <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and Dr. <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>), Apr. 2023 ~ Aug. 2024
+Visiting Student, Carnegie Mellon University (Mentor: Dr. <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>), Sep. 2023 ~ Feb. 2024
 
 <!-- ## Invited Talks -->
-## Projects
+<!-- ## Projects
 ### Carnegie Mellon University
 - Robust Fine-Tuning of Visual Foundation Models
   - <a href="https://zhiqic.github.io/CMU-2023-Fall-11-775-MultimediaAnalysis/index.html" style="color: #009B8B; text-decoration: none;">Large-Scale Multimedia Analysis 11-775 2023f</a> Course Project, Sep. 2023 - Dec. 2023
@@ -145,7 +149,7 @@ Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
   - <a href="https://www.mfds.go.kr/eng/index.do" style="color: #009B8B; text-decoration: none;">Ministry of Food and Drug Safety</a>, Mar. 2022 - Aug. 2023
 - Keyword Extraction for Technology Commercialization Documents
   - <a href="https://www.kisti.re.kr/eng/" style="color: #009B8B; text-decoration: none;">KISTI</a>, June. 2021 - Oct. 2021
-  - *related papers: TC-BERT: Large-scale Language Model for Korean Technology Documents (preprint)*
+  - *related papers: TC-BERT: Large-scale Language Model for Korean Technology Documents (preprint)* -->
 
 ## Awards & Scholarships
 - **DEI Scholarship Travel Awards**, CVPR, Apr. 2023
