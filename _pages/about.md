@@ -121,9 +121,9 @@ Mar. 2016 - Feb. 2022
 
 ## Experience
 * ***Research Intern***, NAVER AI Lab \\
-Mentor: Dr. <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and Dr. <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024 \\
+Mentor: Dr. <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and Dr. <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024
 * ***Visiting Student / Collaborator***, Carnegie Mellon University \\
-Mentor: Dr. <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024 \\
+Mentor: Dr. <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024
 
 <!-- ## Invited Talks -->
 <!-- ## Projects
