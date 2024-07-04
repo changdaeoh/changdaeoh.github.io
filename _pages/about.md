@@ -33,6 +33,10 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 ## Publication
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
 
+- **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
+Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song \\
+<span style="color:darkred">**ECAI**</span> 2024
+
 - **First Step for Theoretical and Practical Foundations of Robust Visual Prompting** \\
 Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
 <span style="color:darkred">**IJCAI**</span> 2024, The Trustworthy AI Workshop
@@ -86,15 +90,15 @@ CKAIA 2023 -->
  -->
 
 ## Preprints
+- **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
+<u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song
+
 - **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
 <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen
 
 <!-- - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song -->
-
-<!-- - **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
-Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song -->
  
 - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4371884" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
