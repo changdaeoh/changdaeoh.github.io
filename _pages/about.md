@@ -91,6 +91,7 @@ CKAIA 2023 -->
 
 ## Preprints
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
+<a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song
 
 - **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
