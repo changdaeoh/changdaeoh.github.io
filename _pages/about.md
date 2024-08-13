@@ -94,6 +94,10 @@ CKAIA 2023 -->
 <a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song
 
+- **Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism** \\
+<a href="https://arxiv.org/abs/2407.13078" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun
+
 - **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
 <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen
