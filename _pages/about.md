@@ -36,7 +36,7 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 - **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song \\
 <a href="https://arxiv.org/pdf/2408.10107" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**ECAI**</span> 2024, _Oral presentation_
+<span style="color:darkred">**ECAI**</span> 2024 (<span style="color:red">_Oral presentation_</span>)
 
 - **First Step for Theoretical and Practical Foundations of Robust Visual Prompting** \\
 Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
