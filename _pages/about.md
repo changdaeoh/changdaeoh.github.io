@@ -35,7 +35,8 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 
 - **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song \\
-<span style="color:darkred">**ECAI**</span> 2024
+<a href="https://arxiv.org/pdf/2408.10107" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<span style="color:darkred">**ECAI**</span> 2024, _Oral presentation_
 
 - **First Step for Theoretical and Practical Foundations of Robust Visual Prompting** \\
 Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
@@ -130,9 +131,9 @@ Mar. 2016 - Feb. 2022
 
 ## Experience
 * ***Research Intern***, NAVER AI Lab \\
-Mentor: Dr. <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and Dr. <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024
+Mentor: <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024
 * ***Visiting Student / Collaborator***, Carnegie Mellon University \\
-Mentor: Dr. <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024
+Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024
 
 <!-- ## Invited Talks -->
 <!-- ## Projects
@@ -174,9 +175,5 @@ Mentor: Dr. <a href="https://zhiqic.github.io/homepage/index.html" style="color:
 - **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020
 
 ## Academic Services 
-- Conference Committee
-  - 2025: AAAI
-- Conference Reviewer
-  - 2024: CVPR, NeurIPS
-- Conference Volunteer
-  - 2022: KDD
+- Conference Reviewer: CVPR, NeurIPS, AAAI
+- Conference Volunteer: KDD'22
