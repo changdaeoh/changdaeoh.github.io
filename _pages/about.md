@@ -32,6 +32,11 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 
 ## Publication
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
+- **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
+<u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
+<a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<span style="color:darkred">**NeurIPS**</span> 2024 \\
+<span style="color:darkred">**NeurIPS**</span> 2023, Workshop on Distribution Shifts
 
 - **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song \\
@@ -52,11 +57,6 @@ Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/bubble3jh/bibimbap_ensemble/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:#3700FF">**Pattern Recognition**</span> 2024
-
-- **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
-<u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
-<a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2023, Workshop on Distribution Shifts
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
