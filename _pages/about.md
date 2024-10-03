@@ -38,6 +38,11 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 <span style="color:darkred">**NeurIPS**</span> 2024 \\
 <span style="color:darkred">**NeurIPS**</span> 2023, Workshop on Distribution Shifts
 
+- **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
+<a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen \\
+<span style="color:darkred">**EMNLP**</span> 2024, Multilingual Representation Learning Workshop
+
 - **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song \\
 <a href="https://arxiv.org/pdf/2408.10107" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
@@ -99,10 +104,6 @@ CKAIA 2023 -->
 - **Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism** \\
 <a href="https://arxiv.org/abs/2407.13078" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun
-
-- **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
-<a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen
 
 <!-- - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song -->
