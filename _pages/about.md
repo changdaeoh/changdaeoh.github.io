@@ -35,7 +35,7 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
 <a href="https://drive.google.com/file/d/100-k6gtB6Y0xK-0xXVRJXqAi_3Az5nWp/view?usp=sharing" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/TC-BERT" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song \\
-<span style="color:#3700FF">**Journal of Supercomputing**</span> 2024
+<span style="color:#3700FF">**The Journal of Supercomputing**</span> 2024
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
