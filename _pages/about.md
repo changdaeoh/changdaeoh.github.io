@@ -32,6 +32,11 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 
 ## Publication
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
+- **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4371884" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song \\
+<span style="color:#3700FF">**Journal of Supercomputing**</span> 2024
+
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -97,6 +102,10 @@ CKAIA 2023 -->
  -->
 
 ## Preprints
+- **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
+<a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+<u>Changdae Oh</u>, Yixuan Li, Kyungwoo Song, Sangdoo Yun, Dongyoon Han
+
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
 <a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song
@@ -108,9 +117,6 @@ Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun
 <!-- - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song -->
  
-- **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4371884" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Hyeji Hwang\*, <u>Changdae Oh</u>\*, Eunkyeong Lee, Taero Kim, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song
   
 <!-- - **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
 Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song -->
