@@ -33,7 +33,7 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 ## Publication
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
 - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
-<a href="https://drive.google.com/file/d/100-k6gtB6Y0xK-0xXVRJXqAi_3Az5nWp/view?usp=sharing" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a href="https://drive.google.com/file/d/100-k6gtB6Y0xK-0xXVRJXqAi_3Az5nWp/view?usp=sharing" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/TC-BERT" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song \\
 <span style="color:#3700FF">**Journal of Supercomputing**</span> 2024
 
