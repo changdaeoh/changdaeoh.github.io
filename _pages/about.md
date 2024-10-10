@@ -32,16 +32,22 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 
 ## Publication
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
-- **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
-<a href="https://drive.google.com/file/d/100-k6gtB6Y0xK-0xXVRJXqAi_3Az5nWp/view?usp=sharing" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/TC-BERT" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song \\
-<span style="color:#3700FF">**The Journal of Supercomputing**</span> 2024
+
+- **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
+<a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+<u>Changdae Oh</u>, Yixuan Li, Kyungwoo Song, Sangdoo Yun, Dongyoon Han \\
+<span style="color:darkred">**NeurIPS**</span> 2024, Workshop on Adaptive Foundation Models \\
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2024 \\
 <span style="color:darkred">**NeurIPS**</span> 2023, Workshop on Distribution Shifts
+
+- **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
+<a href="https://drive.google.com/file/d/100-k6gtB6Y0xK-0xXVRJXqAi_3Az5nWp/view?usp=sharing" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/TC-BERT" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song \\
+<span style="color:#3700FF">**The Journal of Supercomputing**</span> 2024
 
 - **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
 <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
@@ -102,9 +108,6 @@ CKAIA 2023 -->
  -->
 
 ## Preprints
-- **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
-<a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<u>Changdae Oh</u>, Yixuan Li, Kyungwoo Song, Sangdoo Yun, Dongyoon Han
 
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
 <a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
