@@ -36,7 +36,7 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 - **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Yixuan Li, Kyungwoo Song, Sangdoo Yun, Dongyoon Han \\
-<span style="color:darkred">**NeurIPS**</span> 2024, Workshop on Adaptive Foundation Models \\
+<span style="color:darkred">**NeurIPS**</span> 2024, Workshop on Adaptive Foundation Models
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
