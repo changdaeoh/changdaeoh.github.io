@@ -13,9 +13,8 @@ I am a Ph.D. student in Department of Computer Sciences at the <a href="https://
 I am broadly interested in machine learning fundamentals and AI safety & reliability. Recently, I have explored the intersection of robustness under distribution shift and efficient adaptation of large-scale foundation models.
 
 📢 <span style="color:#ff1493">**_Actively seeking a 2025 summer research internship (in US or outside)!_**</span> \\
-💭 _Interest & Expertise: robustness under distribution shifts, efficient adaptation of foundation models, reliability of multimodal large language models, model merging, and machine learning fundamentals_ \\
-📩 _Feel free to <a href="changdae@cs.wisc.edu" style="color: #009B8B; text-decoration: none;">contact</a> me if you find any matching_ :) \\
-<a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration: none;">[CV]</a>
+💭 _Interest & Expertise: robustness under distribution shifts, efficient adaptation of foundation models, reliability of multimodal large language models, model merging, and machine learning fundamentals_ -- <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration: none;">please refer to CV for more</a>\\
+📩 _Feel free to contact me if you find any matching_ :) \\
  
 <!-- ### Topics of Interest (papers with overlap)
 * Representation Learning: <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">KDD'22</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">Access'23<>, <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">NeurIPS'23</a>
