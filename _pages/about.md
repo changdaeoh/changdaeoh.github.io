@@ -12,7 +12,7 @@ I am a Ph.D. student in Department of Computer Sciences at the <a href="https://
 
 I am broadly interested in machine learning fundamentals and AI safety & reliability. Recently, I have explored the intersection of robustness under distribution shift and efficient adaptation of large-scale foundation models.
 
-📢 <span style="color:#ff1493">**_Actively seeking a 2025 summer research internship (preferably in the US)!_**</span> \\
+📢 <span style="color:#ff1493">**_Actively seeking a 2025 summer research internship (in US or outside)!_**</span> \\
 💭 _Interest & Expertise: robustness under distribution shifts, efficient adaptation of foundation models, reliability of multimodal large language models, model merging, and machine learning fundamentals_ \\
 📩 _Feel free to <a href="changdae@cs.wisc.edu" style="color: #009B8B; text-decoration: none;">contact</a> me if you find any matching_ :) \\
 <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration: none;">[CV]</a>
