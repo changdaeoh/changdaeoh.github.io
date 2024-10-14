@@ -53,9 +53,9 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song \\
 <span style="color:#3700FF">**The Journal of Supercomputing**</span> 2024
 
-- **Mitigating the Linguistic Gap with Phonemic Representations for Robust Multilingual Language Understanding** \\
+- **Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer** \\
 <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Hae Ji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen \\
+Haeji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen \\
 <span style="color:darkred">**EMNLP**</span> 2024, Multilingual Representation Learning Workshop
 
 - **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
@@ -191,4 +191,4 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 
 ## Academic Services 
 - Conference Reviewer: ICLR'25, AAAI'25, NeurIPS'24, CVPR'24
-- Conference Volunteer: KDD'22
+- Conference Volunteer: NeurIPS'24, KDD'22
