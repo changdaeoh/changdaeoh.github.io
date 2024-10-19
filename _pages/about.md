@@ -12,7 +12,7 @@ I am a Ph.D. student in Department of Computer Sciences at the <a href="https://
 
 I am broadly interested in machine learning fundamentals and AI safety & reliability. Recently, I have explored the intersection of robustness under distribution shift and efficient adaptation of large-scale foundation models.
 
-📢 <span style="color:#ff1493">**_Actively seeking a 2025 summer research internship position (in US or outside)!_**</span> \\
+📢 <span style="color:#ff1493">**_Actively seeking a 2025 summer research internship (in US or outside)!_**</span> \\
 💭 _Interest & Expertise: robustness under distribution shifts, efficient adaptation of foundation models, reliability of multimodal large language models, model merging, and machine learning fundamentals_ -- <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration: none;">[CV link]</a>\\
 📩 _Feel free to contact me if you find any alignment_ :)
  
@@ -45,8 +45,7 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2024 \\
-<span style="color:darkred">**NeurIPS**</span> 2023, Workshop on Distribution Shifts
+<span style="color:darkred">**NeurIPS**</span> 2024
 
 - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
 <a href="https://drive.google.com/file/d/100-k6gtB6Y0xK-0xXVRJXqAi_3Az5nWp/view?usp=sharing" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/TC-BERT" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -77,6 +76,11 @@ Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/bubble3jh/bibimbap_ensemble/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:#3700FF">**Pattern Recognition**</span> 2024
+
+- **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
+<u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Zhi-Qi Cheng, Kyungwoo Song \\
+<a href="https://openreview.net/forum?id=S9h0eLl71q&referrer=%5Bthe%20profile%20of%20Changdae%20Oh%5D(%2Fprofile%3Fid%3D~Changdae_Oh1)" style="color: #009B8B; text-decoration: none;">[paper]</a>  \\
+<span style="color:darkred">**NeurIPS**</span> 2023, Workshop on Distribution Shifts
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
