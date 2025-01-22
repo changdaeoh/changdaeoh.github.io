@@ -42,7 +42,8 @@ NeurIPS 2024, Workshop on Adaptive Foundation Models
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2024
+<span style="color:darkred">**NeurIPS**</span> 2024 \\
+NeurIPS 2023, Workshop on Distribution Shifts
 
 - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
 <a href="https://link.springer.com/article/10.1007/s11227-024-06597-6" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/TC-BERT" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -74,10 +75,10 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/bubble3jh/bibimbap_ensemble/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:#3700FF">**Pattern Recognition**</span> 2024
 
-- **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
+<!-- - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://openreview.net/forum?id=S9h0eLl71q&referrer=%5Bthe%20profile%20of%20Changdae%20Oh%5D(%2Fprofile%3Fid%3D~Changdae_Oh1)" style="color: #009B8B; text-decoration: none;">[paper]</a>  \\
-NeurIPS 2023, Workshop on Distribution Shifts
+NeurIPS 2023, Workshop on Distribution Shifts -->
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
@@ -148,8 +149,11 @@ Mar. 2016 - Feb. 2022
 ## Experience
 * ***Research Intern***, NAVER AI Lab \\
 Mentor: <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024
-* ***Visiting Student / Collaborator***, Carnegie Mellon University \\
-Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024
+  * DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation, ICLR 2025
+* ***Visiting Scholar / Research Collaboration***, Carnegie Mellon University \\
+Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024 \\
+  * Towards Calibrated Robust Fine-Tuning of Vision-Language Model, NeurIPS 2024
+  * EMNLP 2024, Multilingual Representation Learning Workshop
 
 <!-- ## Invited Talks -->
 <!-- ## Projects
@@ -191,5 +195,5 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 - **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020 -->
 
 ## Academic Services 
-- Conference Reviewer: ICLR'25, AAAI'25, NeurIPS'24, CVPR'24
+- Conference Reviewer: ICML'25, ICLR'25, AAAI'25, NeurIPS'24, CVPR'24
 - Conference Volunteer: NeurIPS'24, KDD'22
