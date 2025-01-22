@@ -36,7 +36,8 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 - **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Yixuan Li, Kyungwoo Song, Sangdoo Yun, Dongyoon Han \\
-<span style="color:darkred">**NeurIPS**</span> 2024, Workshop on Adaptive Foundation Models
+<span style="color:darkred">**ICLR**</span> 2025 \\
+NeurIPS 2024, Workshop on Adaptive Foundation Models
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
@@ -51,7 +52,7 @@ Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunj
 - **Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer** \\
 <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Haeji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen \\
-<span style="color:darkred">**EMNLP**</span> 2024, Multilingual Representation Learning Workshop
+EMNLP 2024, Multilingual Representation Learning Workshop
 
 - **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments** \\
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song \\
@@ -61,7 +62,7 @@ Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song 
 
 - **First Step for Theoretical and Practical Foundations of Robust Visual Prompting** \\
 Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
-<span style="color:darkred">**IJCAI**</span> 2024, The Trustworthy AI Workshop
+IJCAI 2024, The Trustworthy AI Workshop
 
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song \\
@@ -76,7 +77,7 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://openreview.net/forum?id=S9h0eLl71q&referrer=%5Bthe%20profile%20of%20Changdae%20Oh%5D(%2Fprofile%3Fid%3D~Changdae_Oh1)" style="color: #009B8B; text-decoration: none;">[paper]</a>  \\
-<span style="color:darkred">**NeurIPS**</span> 2023, Workshop on Distribution Shifts
+NeurIPS 2023, Workshop on Distribution Shifts
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
