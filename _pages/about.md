@@ -153,7 +153,7 @@ Mentor: <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" s
 * ***Visiting Scholar / Research Collaboration***, Carnegie Mellon University \\
 Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024 \\
   * Towards Calibrated Robust Fine-Tuning of Vision-Language Model, NeurIPS 2024
-  * EMNLP 2024, Multilingual Representation Learning Workshop
+  * Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer, EMNLP 2024 Workshop
 
 <!-- ## Invited Talks -->
 <!-- ## Projects
