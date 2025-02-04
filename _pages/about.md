@@ -115,6 +115,10 @@ CKAIA 2023 -->
 
 ## Preprints
 
+- **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
+<a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li
+
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
 <a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song
@@ -125,8 +129,7 @@ Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun
 
 <!-- - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song -->
- 
-  
+
 <!-- - **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
 Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song -->
 
