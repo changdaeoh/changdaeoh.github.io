@@ -32,6 +32,10 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 
 ## Publication
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
+- **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
+<a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
+ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models
 
 - **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -115,17 +119,15 @@ CKAIA 2023 -->
 
 ## Preprints
 
-- **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
-<a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li
-
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
 <a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song
+<u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
+2024
 
 - **Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism** \\
 <a href="https://arxiv.org/abs/2407.13078" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun
+Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun \\
+2024
 
 <!-- - **Multimodal Learning for Social Event Analysis** \\
 <u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song -->
@@ -135,7 +137,8 @@ Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Le
 
 - **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
 <a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song
+Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song \\
+2022
 
 ## Education
 - **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
