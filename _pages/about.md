@@ -37,7 +37,7 @@ Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ&h
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
 <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <span style="color:darkred">**ICML**</span> 2025 \\
-ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models, **_Spotlight_**
+ICLR 2025, **_Spotlight_** @ QUESTION Workshop
 
 - **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
