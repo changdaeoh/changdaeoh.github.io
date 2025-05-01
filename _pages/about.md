@@ -30,12 +30,14 @@ Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="c
 Feb. 2023. Outstanding paper award (1st place) at University of Seoul \\
 May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a> -->
 
-## Publication
-(<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
+## Selected First-author Publications
+(* denotes equal contribution) \\
+Refer to the [Google Scholar](https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ&hl=ko) and [CV](https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1) for the full publication list.
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
 <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models
+<span style="color:darkred">**ICML**</span> 2025 \\
+ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models, **_Spotlight_**
 
 - **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -49,7 +51,7 @@ NeurIPS 2024, Workshop on Adaptive Foundation Models
 <span style="color:darkred">**NeurIPS**</span> 2024 \\
 NeurIPS 2023, Workshop on Distribution Shifts
 
-- **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
+<!-- - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
 <a href="https://link.springer.com/article/10.1007/s11227-024-06597-6" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/TC-BERT" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song \\
 <span style="color:#3700FF">**The Journal of Supercomputing**</span> 2024
@@ -63,7 +65,7 @@ EMNLP 2024, Multilingual Representation Learning Workshop
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song \\
 <a href="https://arxiv.org/pdf/2408.10107" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <span style="color:darkred">**ECAI**</span> 2024
-<!-- -- <span style="color:red">_Oral presentation_</span> -->
+<span style="color:red">_Oral presentation_</span>
 
 - **First Step for Theoretical and Practical Foundations of Robust Visual Prompting** \\
 Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
@@ -79,7 +81,7 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/bubble3jh/bibimbap_ensemble/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:#3700FF">**Pattern Recognition**</span> 2024
 
-<!-- - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
+- **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://openreview.net/forum?id=S9h0eLl71q&referrer=%5Bthe%20profile%20of%20Changdae%20Oh%5D(%2Fprofile%3Fid%3D~Changdae_Oh1)" style="color: #009B8B; text-decoration: none;">[paper]</a>  \\
 NeurIPS 2023, Workshop on Distribution Shifts -->
@@ -89,10 +91,10 @@ NeurIPS 2023, Workshop on Distribution Shifts -->
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/multimodal-mixup" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2023
 
-- **Robust Contrastive Learning with Dynamic Mixed Margin** \\
+<!-- - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
 <a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/teang1995/DMM" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
-<span style="color: #3700FF">**IEEE Access**</span> 2023
+<span style="color: #3700FF">**IEEE Access**</span> 2023 -->
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -117,7 +119,7 @@ CKAIA 2023 -->
 ## Workshop Publication
  -->
 
-## Preprints
+<!-- ## Preprints
 
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
 <u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
@@ -135,10 +137,10 @@ Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun \\
 <!-- - **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
 Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song -->
 
-- **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
+<!-- - **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
 Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-2022
+2022 -->
 
 ## Education
 - **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
