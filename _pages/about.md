@@ -32,7 +32,7 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 
 ## Selected First-author Publications
 (* denotes equal contribution) \\
-Refer to the [Google Scholar](https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ&hl=ko) and [CV](https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1) for the full publication list.
+Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ&hl=ko" style="color: #009B8B; text-decoration:none">**Google Scholar**</a>and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
 <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
