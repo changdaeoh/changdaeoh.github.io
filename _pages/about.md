@@ -30,7 +30,7 @@ Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="c
 Feb. 2023. Outstanding paper award (1st place) at University of Seoul \\
 May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a> -->
 
-## Selected First-author Publications
+## Selected Publications
 (* denotes equal contribution) \\
 Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ&hl=ko" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
