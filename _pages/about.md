@@ -30,9 +30,14 @@ Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="c
 Feb. 2023. Outstanding paper award (1st place) at University of Seoul \\
 May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a> -->
 
-## Selected Publications
+## Selected Publications and Preprints
 (* denotes equal contribution) \\
 Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ&hl=ko" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
+- **Visual Instruction Bottleneck Tuning** \\
+<u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
+<a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+Preprint 2025
+
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
 <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
