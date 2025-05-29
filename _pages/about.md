@@ -10,12 +10,21 @@ redirect_from:
 
 I am a Ph.D. student in Department of Computer Sciences at the <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**University of Wisconsin-Madison**</a>, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a>. Before joining Sharon's group, I obtained my MS degree in Artificial Intelligence at the <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> under supervision of Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I had the privilege of working with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during visiting at <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a>, and internship at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" style="color: #009B8B; text-decoration:none">**NAVER AI Lab**</a> allows me to be advised by <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>.
 
-I am broadly interested in machine learning fundamentals and AI safety & reliability. Recently, I have explored the intersection of robustness under distribution shift and efficient adaptation of large-scale foundation models.
+I am broadly interested in machine learning fundamentals and AI safety & reliability. Recently, I have focused on understanding and improving the robustness of vision-language models under distribution shifts.
  
 <!-- ### Topics of Interest (papers with overlap)
 * Representation Learning: <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">KDD'22</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">Access'23<>, <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">NeurIPS'23</a>
 * Robustness under Distribution Shifts: <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">KDD'22</a>, <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">NeurIPS'23</a>, <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">NeurIPSW'23</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">PR'24</a>
 * Efficient Transfer Learning of Foundation Models: <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">CVPR'23</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">ESWA'24</a>, <a href="" style="color: #009B8B; text-decoration: none;">IJCAIW'24</a> -->
+
+
+## News
+May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
+May 2025, New preprint <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">Vittle</a> is out! \\
+May 2025, Our <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">UnderstandingMLLM-DistShift</a> paper got accepted to <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
+Jan 2025, Our <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">DaWin</a> paper got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2025**</a>! \\
+Sep 2024, Our <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">CaRot</a> paper got accepted to <a href="https://neurips/" style="color: #009B8B; text-decoration:none">**NeurIPS 2024**</a>! \\
+Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a PhD student!
 
 <!-- ## News
 Apr. 2024. One paper accepted to <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" style="color: #009B8B; text-decoration:none">**Expert Systems with Applications**</a> \\
@@ -32,7 +41,7 @@ May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color
 
 ## Selected Publications and Preprints
 (* denotes equal contribution) \\
-Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ&hl=ko" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
+Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
 - **Visual Instruction Bottleneck Tuning** \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
 <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
