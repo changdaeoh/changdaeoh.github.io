@@ -208,6 +208,6 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 - **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020 -->
 
 ## Academic Services 
-- Conference Reviewer: NeurIPS'25, ICML'25, ICLR'25, AAAI'25, NeurIPS'24, CVPR'24
+- Conference Reviewer: NeurIPS'25, ICML'25 (**Top Reviewer**), ICLR'25, AAAI'25, NeurIPS'24, CVPR'24
 - Conference Volunteer: NeurIPS'24, KDD'22
 - Journal Reviewer: Neural Network'25
