@@ -20,10 +20,10 @@ I am broadly interested in machine learning fundamentals and AI safety & reliabi
 
 ## News
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
-May 2025, New preprint <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">Vittle</a> is out! \\
-May 2025, Our <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">UnderstandingMLLM-DistShift</a> paper got accepted to <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
-Jan 2025, Our <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">DaWin</a> paper got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2025**</a>! \\
-Sep 2024, Our <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">CaRot</a> paper got accepted to <a href="https://neurips/" style="color: #009B8B; text-decoration:none">**NeurIPS 2024**</a>! \\
+May 2025, New preprint <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> is out! \\
+May 2025, Our <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">**UnderstandingMLLM-DistShift**</a> paper got accepted to <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
+Jan 2025, Our <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">**DaWin**</a> paper got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2025**</a>! \\
+Sep 2024, Our <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">**CaRot**</a> paper got accepted to <a href="https://neurips/" style="color: #009B8B; text-decoration:none">**NeurIPS 2024**</a>! \\
 Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a PhD student!
 
 <!-- ## News
