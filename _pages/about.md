@@ -19,25 +19,15 @@ I am broadly interested in machine learning fundamentals and AI safety & reliabi
 
 
 ## News
+Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-ML workshop**</a> as an **Oral presentation** (6 out of 176)! \\
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
 May 2025, New preprint <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> is out! \\
 May 2025, Our <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">**UnderstandingMLLM-DistShift**</a> paper got accepted to <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
+May 2025, Our <a href="https://www.sciencedirect.com/science/article/pii/S0031320325005497" style="color: #009B8B; text-decoration: none;">**Graph Perceiver IO**</a> paper got accepted to <a href="https://www.sciencedirect.com/journal/pattern-recognition" style="color: #009B8B; text-decoration:none">**Pattern Recognition**</a>! \\
 Jan 2025, Our <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">**DaWin**</a> paper got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2025**</a>! \\
 Sep 2024, Our <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">**CaRot**</a> paper got accepted to <a href="https://neurips/" style="color: #009B8B; text-decoration:none">**NeurIPS 2024**</a>! \\
 Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a PhD student!
 
-<!-- ## News
-Apr. 2024. One paper accepted to <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" style="color: #009B8B; text-decoration:none">**Expert Systems with Applications**</a> \\
-Apr. 2024. I’m starting my internship at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" style="color: #009B8B; text-decoration:none">**NAVER AI Lab**</a> \\
-Mar. 2024. I will join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a Ph.D. student in 2024f \\
-Feb. 2024. One paper accepted to <a href="https://www.sciencedirect.com/journal/pattern-recognition" style="color: #009B8B; text-decoration:none">**Pattern Recognition**</a> \\
-Oct. 2023. One paper accepted to <a href="https://sites.google.com/view/distshift2023/home?authuser=0/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023 Workshop DistShift**</a> \\
-Sep. 2023. One paper accepted to <a href="https://nips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2023**</a> \\
-Jun. 2023. One paper accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style="color: #009B8B; text-decoration:none">**IEEE Access**</a> \\
-Mar. 2023. Selected as a <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a> **AI Intensive Program Scholarship Recipient** (Visiting Scholar, Aug 2023 ~ Feb 2024) \\
-Feb. 2023. One paper accepted to <a href="https://cvpr2023.thecvf.com/" style="color: #009B8B; text-decoration:none">**CVPR 2023**</a> \\
-Feb. 2023. Outstanding paper award (1st place) at University of Seoul \\
-May. 2022. One paper accepted to <a href="https://kdd.org/kdd2022/" style="color: #009B8B; text-decoration:none">**KDD 2022**</a> -->
 
 ## Selected Publications and Preprints
 (* denotes equal contribution) \\
@@ -45,13 +35,13 @@ Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" 
 - **Visual Instruction Bottleneck Tuning** \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
 <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-Preprint 2025
+ICML 2025, Workshop on Reliable and Responsible Foundation Models (Oral Presentation; 6/176=3.4%)
 
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
 <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <span style="color:darkred">**ICML**</span> 2025 \\
-ICLR 2025, **_Spotlight_** @ QUESTION Workshop
+ICLR 2025, QUESTION Workshop (Oral Presentation)
 
 - **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
