@@ -34,13 +34,13 @@ Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" 
 - **Visual Instruction Bottleneck Tuning** \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
 <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-ICML 2025, Workshop on Reliable and Responsible Foundation Models (Oral Presentation; 6/176=3.4%)
+ICML 2025, Workshop on Reliable and Responsible Foundation Models (**Oral Presentation; 6/176=3.4%**)
 
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
 <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <span style="color:darkred">**ICML**</span> 2025 \\
-ICLR 2025, QUESTION Workshop (Oral Presentation)
+ICLR 2025, QUESTION Workshop (**Oral Presentation**)
 
 - **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
