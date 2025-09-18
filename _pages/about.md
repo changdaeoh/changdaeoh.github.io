@@ -19,6 +19,7 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
 
 
 ## News
+Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
 Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-FM workshop**</a> as an **Oral presentation** (6 out of 176)! \\
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
 May 2025, Our <a href="https://www.sciencedirect.com/science/article/pii/S0031320325005497" style="color: #009B8B; text-decoration: none;">**Graph Perceiver IO**</a> paper got accepted to <a href="https://www.sciencedirect.com/journal/pattern-recognition" style="color: #009B8B; text-decoration:none">**Pattern Recognition**</a>! \\
@@ -34,6 +35,7 @@ Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" 
 - **Visual Instruction Bottleneck Tuning** \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
 <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<span style="color:darkred">**NeurIPS**</span> 2025 \\
 ICML 2025, Workshop on Reliable and Responsible Foundation Models (**Oral Presentation; 6/176=3.4%**)
 
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
