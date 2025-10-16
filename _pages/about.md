@@ -29,23 +29,23 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
 - **Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding** \\
 Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Yixuan Li \\
-<a href="https://arxiv.org/abs/2509.23050" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-ArXiv preprint Sep. 2025 \\
+<a href="https://arxiv.org/abs/2509.23050" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/understanding_lp" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+ArXiv preprint Sep. 2025 
 
 - **General Exploratory Bonus for Optimistic Exploration in RLHF** \\
 Wendi Li, <u>Changdae Oh</u>, Yixuan Li \\
-<a href="https://arxiv.org/pdf/2510.03269" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-ArXiv preprint Sep. 2025 \\
+<a href="https://arxiv.org/pdf/2510.03269" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/WindyLee0822/GEB" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+ArXiv preprint Sep. 2025
 
 - **Visual Instruction Bottleneck Tuning** \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
-<a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/vittle" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2025 \\
 ICML 2025, Workshop on Reliable and Responsible Foundation Models (**Oral Presentation; 6/176=3.4%**)
 
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
-<a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/mllmshift-emi" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**ICML**</span> 2025 \\
 ICLR 2025, QUESTION Workshop (**Oral Presentation**)
 
