@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Department of Computer Sciences at the <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**University of Wisconsin-Madison**</a>, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a>. Before joining Sharon's group, I obtained my MS degree in Artificial Intelligence at the <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> under supervision of Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I had the privilege of working with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during visiting at <a href="https://www.cmu.edu/" style="color: #009B8B; text-decoration:none">**Carnegie Mellon University**</a>, and internship at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" style="color: #009B8B; text-decoration:none">**NAVER AI Lab**</a> allows me to be advised by <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>.
 
-I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on understanding and improving the robustness of multimodal LLMs under distribution shifts and uncertainty quantification of LLMs.
+I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on understanding and improving the robustness of multimodal LLMs under distribution shifts and uncertainty quantification of LLM agents.
  
 <!-- ### Topics of Interest (papers with overlap)
 * Representation Learning: <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">KDD'22</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">Access'23<>, <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">NeurIPS'23</a>
@@ -32,6 +32,16 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 ## Selected Publications and Preprints
 (* denotes equal contribution) \\
 Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
+- **Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding** \\
+Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Yixuan Li \\
+<a href="https://arxiv.org/abs/2509.23050" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+ArXiv preprint Sep. 2025 \\
+
+- **General Exploratory Bonus for Optimistic Exploration in RLHF** \\
+Wendi Li, <u>Changdae Oh</u>, Yixuan Li \\
+<a href="https://arxiv.org/pdf/2510.03269" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+ArXiv preprint Sep. 2025 \\
+
 - **Visual Instruction Bottleneck Tuning** \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
 <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
@@ -208,6 +218,12 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 - **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020 -->
 
 ## Academic Services 
-- Conference Reviewer: NeurIPS'25, ICML'25 (**Top Reviewer**), ICLR'25, AAAI'25, NeurIPS'24, CVPR'24
+- Conference Reviewer:
+  - NeurIPS 2025, 2024
+  - ICML 2025 (**Top Reviewer**)
+  - ICLR 2026, ICLR 2025
+  - AAAI 2025
+  - AISTATS 2026
+  - CVPR 2024
 - Conference Volunteer: NeurIPS'24, KDD'22
 - Journal Reviewer: TMLR, Neural Network
