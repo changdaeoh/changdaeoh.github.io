@@ -12,13 +12,8 @@ I am a Ph.D. student in Department of Computer Sciences at the <a href="https://
 
 I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on understanding and improving the robustness of multimodal LLMs under distribution shifts and uncertainty quantification of LLM agents.
  
-<!-- ### Topics of Interest (papers with overlap)
-* Representation Learning: <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">KDD'22</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">Access'23<>, <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">NeurIPS'23</a>
-* Robustness under Distribution Shifts: <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">KDD'22</a>, <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">NeurIPS'23</a>, <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">NeurIPSW'23</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">PR'24</a>
-* Efficient Transfer Learning of Foundation Models: <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">CVPR'23</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">ESWA'24</a>, <a href="" style="color: #009B8B; text-decoration: none;">IJCAIW'24</a> -->
 
-
-## News
+<!-- ## News
 Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
 Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-FM workshop**</a> as an **Oral presentation** (6 out of 176)! \\
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
@@ -26,7 +21,7 @@ May 2025, Our <a href="https://www.sciencedirect.com/science/article/pii/S003132
 May 2025, Our <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">**UnderstandingMLLM-DistShift**</a> paper got accepted to <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
 Jan 2025, Our <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">**DaWin**</a> paper got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2025**</a>! \\
 Sep 2024, Our <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">**CaRot**</a> paper got accepted to <a href="https://neurips/" style="color: #009B8B; text-decoration:none">**NeurIPS 2024**</a>! \\
-Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a PhD student!
+Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a PhD student! -->
 
 
 ## Selected Publications and Preprints
