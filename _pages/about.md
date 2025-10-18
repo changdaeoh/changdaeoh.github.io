@@ -221,4 +221,7 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
   - AISTATS 2026
   - CVPR 2024
 - Conference Volunteer: NeurIPS'24, KDD'22
+- Workshop Committee
+  - NeurIPS 2025,  <a href="https://reliablemlworkshop.github.io/" style="color: #009B8B; text-decoration:none">Reliable ML from Unreliable Data</a>
+  - ICLR 2025,  <a href="https://uncertainty-foundation-models.github.io/" style="color: #009B8B; text-decoration:none">Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI</a>
 - Journal Reviewer: TMLR, Neural Network
