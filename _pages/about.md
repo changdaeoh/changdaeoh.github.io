@@ -216,7 +216,7 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 - Conference Reviewer:
   - NeurIPS 2025, 2024
   - ICML 2025 (**Top Reviewer**)
-  - ICLR 2026, ICLR 2025
+  - ICLR 2026, 2025
   - AAAI 2025
   - AISTATS 2026
   - CVPR 2024
