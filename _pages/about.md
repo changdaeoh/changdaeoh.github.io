@@ -35,7 +35,7 @@ ArXiv preprint Sep. 2025
 - **General Exploratory Bonus for Optimistic Exploration in RLHF** \\
 Wendi Li, <u>Changdae Oh</u>, Yixuan Li \\
 <a href="https://arxiv.org/pdf/2510.03269" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/WindyLee0822/GEB" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-NeurIPS 2025, Workshop on Socially Responsible and Trustworthy Foundation Models (**Oral Presentation; 9/136=6.6%**)****
+NeurIPS 2025, Workshop on Socially Responsible and Trustworthy Foundation Models (**Oral Presentation; 9/136=6.6%**)**
 
 - **Visual Instruction Bottleneck Tuning** \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
