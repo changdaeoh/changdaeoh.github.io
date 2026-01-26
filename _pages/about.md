@@ -32,17 +32,17 @@ Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" 
 - **Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding** \\
 Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Sharon Li \\
 <a href="https://arxiv.org/abs/2509.23050" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/understanding_lp" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**ICLR 2026</span>
+<span style="color:darkred">**ICLR 2026**</span>
 
 - **How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability** \\
 Shawn Im, <u>Changdae Oh</u>, Zhen Fang, Sharon Li \\
 <a href="https://openreview.net/forum?id=A4Us8jxVGq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**ICLR 2026</span>
+<span style="color:darkred">**ICLR 2026**</span>
 
 - **General Exploratory Bonus for Optimistic Exploration in RLHF** \\
 Wendi Li, <u>Changdae Oh</u>, Sharon Li \\
 <a href="https://arxiv.org/pdf/2510.03269" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/WindyLee0822/GEB" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**ICLR 2026</span> \\
+<span style="color:darkred">**ICLR 2026**</span> \\
 NeurIPS 2025, Workshop on Socially Responsible and Trustworthy Foundation Models (**Oral Presentation; 9/136=6.6%**)
 
 - **Visual Instruction Bottleneck Tuning** \\
