@@ -183,6 +183,7 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 
 ## Talks
 Jan 2026, Yonsei University, "*On the Dynamic Reliability of Adaptive Foundation Models*"
+
 <!-- ## Projects
 ### Carnegie Mellon University
 - Robust Fine-Tuning of Visual Foundation Models
