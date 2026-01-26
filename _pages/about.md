@@ -182,7 +182,7 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
   * Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer, EMNLP 2024 Workshop
 
 ## Talks
-Jan 2026, Yonsei University, "*On the Dynamic Reliability of Adaptive Foundation Models*"
+Jan 2026, MLAI Lab @ Yonsei University, "*On the Dynamic Reliability of Adaptive Foundation Models*"
 
 <!-- ## Projects
 ### Carnegie Mellon University
