@@ -14,7 +14,7 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
  
 
 ## News
-Jan 2026, three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a>!
+Jan. 2026, three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a>!
 <!-- Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
 Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-FM workshop**</a> as an **Oral presentation** (6 out of 176)! \\
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
@@ -182,7 +182,8 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
   * Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer, EMNLP 2024 Workshop
 
 ## Talks
-Jan 2026, MLAI Lab @ Yonsei University, "*On the Dynamic Reliability of Adaptive Foundation Models*"
+- Jan. 2026, MLAI Lab @ Yonsei University, "*On the Dynamic Reliability of Adaptive Foundation Models*"
+- Jun. 2025, Research Trend AI, "*Visual Instruction Bottleneck Tuning*"
 
 <!-- ## Projects
 ### Carnegie Mellon University
