@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+X:
   username               : Changdae_Oh
 facebook:
   username               :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Changdae Oh"
-  avatar           : "changdaeoh.jpg"
+  avatar           : "profile_2026.jpg"
   bio              : "Ph.D. student at Department of Computer Sciences, University of Wisconsin-Madison"
   location         : "Madison, WI, United States"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "Changdae_Oh"
+  X                : "Changdae_Oh"
   vine             :
   weibo            :
   xing             :
