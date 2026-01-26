@@ -13,8 +13,9 @@ I am a Ph.D. student in Department of Computer Sciences at the <a href="https://
 I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on understanding and improving the robustness of multimodal LLMs under distribution shifts and uncertainty quantification of LLM agents.
  
 
-<!-- ## News
-Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
+## News
+Jan 2026, three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026</a>!
+<!-- Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
 Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-FM workshop**</a> as an **Oral presentation** (6 out of 176)! \\
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
 May 2025, Our <a href="https://www.sciencedirect.com/science/article/pii/S0031320325005497" style="color: #009B8B; text-decoration: none;">**Graph Perceiver IO**</a> paper got accepted to <a href="https://www.sciencedirect.com/journal/pattern-recognition" style="color: #009B8B; text-decoration:none">**Pattern Recognition**</a>! \\
@@ -27,18 +28,25 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 ## Selected Publications and Preprints
 (* denotes equal contribution) \\
 Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
+
 - **Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding** \\
-Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Yixuan Li \\
+Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Sharon Li \\
 <a href="https://arxiv.org/abs/2509.23050" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/understanding_lp" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-ArXiv preprint Sep. 2025
+<span style="color:darkred">**ICLR 2026</span>
+
+- **How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability** \\
+Shawn Im, <u>Changdae Oh</u>, Zhen Fang, Sharon Li \\
+<a href="https://openreview.net/forum?id=A4Us8jxVGq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<span style="color:darkred">**ICLR 2026</span>
 
 - **General Exploratory Bonus for Optimistic Exploration in RLHF** \\
-Wendi Li, <u>Changdae Oh</u>, Yixuan Li \\
+Wendi Li, <u>Changdae Oh</u>, Sharon Li \\
 <a href="https://arxiv.org/pdf/2510.03269" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/WindyLee0822/GEB" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+<span style="color:darkred">**ICLR 2026</span> \\
 NeurIPS 2025, Workshop on Socially Responsible and Trustworthy Foundation Models (**Oral Presentation; 9/136=6.6%**)
 
 - **Visual Instruction Bottleneck Tuning** \\
-<u>Changdae Oh</u>, Jiatong Li, Shawn Im, Yixuan Li \\
+<u>Changdae Oh</u>, Jiatong Li, Shawn Im, Sharon Li \\
 <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/vittle" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2025 \\
 ICML 2025, Workshop on Reliable and Responsible Foundation Models (**Oral Presentation; 6/176=3.4%**)
@@ -173,7 +181,8 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
   * Towards Calibrated Robust Fine-Tuning of Vision-Language Model, NeurIPS 2024
   * Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer, EMNLP 2024 Workshop
 
-<!-- ## Invited Talks -->
+## Talks
+Jan 2026, Yonsei University, "*On the Dynamic Reliability of Adaptive Foundation Models*"
 <!-- ## Projects
 ### Carnegie Mellon University
 - Robust Fine-Tuning of Visual Foundation Models
@@ -215,7 +224,7 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 ## Academic Services 
 - Conference Reviewer:
   - NeurIPS 2025, 2024
-  - ICML 2025 (**Top Reviewer**)
+  - ICML 2026, 2025 (**Top Reviewer**)
   - ICLR 2026, 2025
   - AAAI 2025
   - AISTATS 2026
