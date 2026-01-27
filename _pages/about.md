@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Changdae Oh"
+title: ""
 excerpt: "Changdae Oh"
 author_profile: true
 redirect_from:
@@ -183,7 +183,7 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 
 ## Talks
 - Jan. 2026, MLAI Lab @ Yonsei University, "*On the Dynamic Reliability of Adaptive Foundation Models*"
-- Jun. 2025, Research Trend AI, "*Visual Instruction Bottleneck Tuning*"
+- Jun. 2025, <a href="https://researchtrend.ai/" style="color: #009B8B; text-decoration:none">ResearchTrend.AI</a>, "*Visual Instruction Bottleneck Tuning*"
 
 <!-- ## Projects
 ### Carnegie Mellon University
