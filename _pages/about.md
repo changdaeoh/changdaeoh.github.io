@@ -15,7 +15,7 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
 
 ## News
 Feb. 2026, Will be interning for <a href="https://ai.meta.com/" style="color: #009B8B; text-decoration:none">**Meta Superintelligence Labs (PAR Team)**</a> this summer at Menlo Park, CA! \\
-Jan. 2026, Start collaboration with <a href="https://www.anl.gov/" style="color: #009B8B; text-decoration:none">Argonne National Laboratory</a> as a Visiting Student-Subcontractor! \\
+Jan. 2026, Start collaboration with <a href="https://www.anl.gov/" style="color: #009B8B; text-decoration:none">**Argonne National Laboratory**</a> as a Visiting Student-Subcontractor! \\
 Jan. 2026, Three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a>!
 <!-- Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
 Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-FM workshop**</a> as an **Oral presentation** (6 out of 176)! \\
