@@ -175,14 +175,14 @@ Mar. 2022 - Aug. 2024
 Mar. 2016 - Feb. 2022
 
 ## Experience
-* ***Research Scientist Intern***, Meta Superintelligence Labs \\
+* *Research Scientist Intern*, **Meta Superintelligence Labs** \\
 Mentor: <a href="https://jkatzsam.github.io/" style="color: #009B8B; text-decoration:none">**Julian Katz-Samuels**</a>, May. 2026 ~ current
-* ***Visiting Student-Subcontractor***, Argonne National Laboratory \\
+* *Visiting Student-Subcontractor*, **Argonne National Laboratory** \\
 Mentor: <a href="https://tanwimallick.github.io/" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, Feb. 2026 ~ current
-* ***Research Intern***, NAVER AI Lab \\
+* *Research Intern*, **NAVER AI Lab** \\
 Mentor: <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024
   * DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation, ICLR 2025
-* ***Visiting Scholar / Research Collaboration***, Carnegie Mellon University \\
+* *Visiting Scholar*, **Carnegie Mellon University** \\
 Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024 \\
   * Towards Calibrated Robust Fine-Tuning of Vision-Language Model, NeurIPS 2024
   * Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer, EMNLP 2024 Workshop
