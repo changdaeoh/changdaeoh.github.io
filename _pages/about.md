@@ -36,7 +36,7 @@ Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Sharon Li \\
 
 - **How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability** \\
 Shawn Im, <u>Changdae Oh</u>, Zhen Fang, Sharon Li \\
-<a href="https://openreview.net/forum?id=A4Us8jxVGq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a href="https://arxiv.org/pdf/2601.19208" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <span style="color:darkred">**ICLR**</span> 2026
 
 - **General Exploratory Bonus for Optimistic Exploration in RLHF** \\
