@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Changdae Oh"
+excerpt: "Changdae Oh, UW-Madison"
 author_profile: true
 redirect_from:
   - /about/
@@ -16,7 +16,7 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
 ## News
 Feb. 2026, Will be interning for <a href="https://ai.meta.com/" style="color: #009B8B; text-decoration:none">**Meta Superintelligence Labs (PAR Team)**</a> this summer at Menlo Park, CA! \\
 Jan. 2026, Start collaboration with <a href="https://www.anl.gov/" style="color: #009B8B; text-decoration:none">**Argonne National Laboratory**</a> as a Visiting Student-Subcontractor! \\
-Jan. 2026, Three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a>!
+Jan. 2026, Three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a> with one <a href="https://openreview.net/forum?id=A4Us8jxVGq" style="color: #009B8B; text-decoration:none">Oral presentation</a>!
 <!-- Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
 Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-FM workshop**</a> as an **Oral presentation** (6 out of 176)! \\
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
@@ -39,7 +39,7 @@ Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Sharon Li \\
 - **How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability** \\
 Shawn Im, <u>Changdae Oh</u>, Zhen Fang, Sharon Li \\
 <a href="https://arxiv.org/pdf/2601.19208" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/attn-dynamics-basis" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**ICLR**</span> 2026
+<span style="color:darkred">**ICLR**</span> 2026 **(Oral Presentation)**
 
 - **General Exploratory Bonus for Optimistic Exploration in RLHF** \\
 Wendi Li, <u>Changdae Oh</u>, Sharon Li \\
