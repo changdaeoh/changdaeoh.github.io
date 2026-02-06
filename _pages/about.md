@@ -16,7 +16,7 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
 ## News
 Feb. 2026, Will be interning for <a href="https://ai.meta.com/" style="color: #009B8B; text-decoration:none">**Meta Superintelligence Labs (PAR Team)**</a> this summer at Menlo Park, CA! \\
 Jan. 2026, Start collaboration with <a href="https://www.anl.gov/" style="color: #009B8B; text-decoration:none">**Argonne National Laboratory**</a> as a Visiting Student-Subcontractor! \\
-Jan. 2026, Three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a> with one <a href="https://openreview.net/forum?id=A4Us8jxVGq" style="color: #009B8B; text-decoration:none">Oral presentation</a>!
+Jan. 2026, Three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a> with one <a href="https://openreview.net/forum?id=A4Us8jxVGq" style="color: #009B8B; text-decoration:none">**Oral presentation**</a>!
 <!-- Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
 Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-FM workshop**</a> as an **Oral presentation** (6 out of 176)! \\
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
@@ -30,6 +30,11 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 ## Selected Publications and Preprints
 (* denotes equal contribution) \\
 Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
+
+- **Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents** \\
+<u>Changdae Oh</u>, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li \\
+<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+arXiv preprint 2026
 
 - **Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding** \\
 Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Sharon Li \\
