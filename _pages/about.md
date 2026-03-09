@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin--Madison, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a>, and an incoming intern at Meta Superintelligence Labs. Prior to my Ph.D., I earned my M.S. degree in AI from the University of Seoul, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I also had the opportunity to work with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during a visiting period at Carnegie Mellon University, and with <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a> during my internship at NAVER AI Lab.
 
-I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on understanding and improving the robustness of multimodal LLMs under distribution shifts and uncertainty quantification of LLM agents.
+I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on uncertainty quantification and process reward modeling of LLM agents.
  
 
 ## News
@@ -29,11 +29,11 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 
 ## Selected Publications and Preprints
 (* denotes equal contribution) \\
-Refer to the <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> and <a href="https://www.overleaf.com/read/vxmyrcmshwqk#2ae4b1" style="color: #009B8B; text-decoration:none">**CV**</a> for the full publication list.
+See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> for the full publication list.
 
-- **Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents** \\
+- **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities** \\
 <u>Changdae Oh</u>, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li \\
-<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[website]</a> \\
 arXiv preprint 2026
 
 - **Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding** \\
@@ -106,20 +106,11 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/bubble3jh/bibimbap_ensemble/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:#3700FF">**Pattern Recognition**</span> 2024
 
-- **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
-<u>Changdae Oh</u>, Mijoo Kim, Hyesu Lim, Junhyeok Park, Euiseog Jeong, Zhi-Qi Cheng, Kyungwoo Song \\
-<a href="https://openreview.net/forum?id=S9h0eLl71q&referrer=%5Bthe%20profile%20of%20Changdae%20Oh%5D(%2Fprofile%3Fid%3D~Changdae_Oh1)" style="color: #009B8B; text-decoration: none;">[paper]</a>  \\
-NeurIPS 2023, Workshop on Distribution Shifts -->
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/multimodal-mixup" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2023
-
-<!-- - **Robust Contrastive Learning with Dynamic Mixed Margin** \\
-<a href="https://ieeexplore.ieee.org/abstract/document/10154052" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/teang1995/DMM" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
-<span style="color: #3700FF">**IEEE Access**</span> 2023 -->
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -131,18 +122,6 @@ Junhyuk So\*, YongTaek Lim\*, Yewon Kim\*, <u>Changdae Oh</u>, Kyungwoo Song \\
 <a href="https://github.com/changdaeoh/FarconVAE" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Heeji Won, Junhyuk So, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song \\
 <span style="color:darkred">**KDD**</span> 2022
-
-<!-- ## Publication (Domestic)
-- **Pre-trained Models Ensembling for Domain Generalization in Chemistry Classification** \\
-Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
-CKAIA 2023 -->
-
-<!--   , <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%)  -->
-
-<!-- ## Domestic Conference Publication
-
-## Workshop Publication
- -->
 
 <!-- ## Preprints
 
@@ -156,16 +135,6 @@ Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun \\
 <a href="https://arxiv.org/abs/2407.13078" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 2024
 
-<!-- - **Multimodal Learning for Social Event Analysis** \\
-<u>Changdae Oh</u>, Hoyoon Byun, Minhoi Park, YongTaek Lim, Neil Kim, Kyungwoo Song -->
-
-<!-- - **Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model** \\
-Hyeji Hwang\*, YongTaek Lim\*, <u>Changdae Oh</u>\*, Seungyeon Kim, Eunkyeong Lee, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song -->
-
-<!-- - **Graph Perceiver IO: A General Architecture for Graph Structured Data** \\
-Seyun Bae, Hoyoon Byun, <u>Changdae Oh</u>, Yoon-Sik Cho, Kyungwoo Song \\
-<a href="https://arxiv.org/abs/2209.06418" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-2022 -->
 
 ## Education
 - **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
@@ -192,58 +161,17 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
   * Towards Calibrated Robust Fine-Tuning of Vision-Language Model, NeurIPS 2024
   * Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer, EMNLP 2024 Workshop
 
-## Talks
-- Jan. 2026, MLAI Lab @ Yonsei University, "*On the Dynamic Reliability of Adaptive Foundation Models*"
-- Jun. 2025, <a href="https://researchtrend.ai/" style="color: #009B8B; text-decoration:none">ResearchTrend.AI</a>, "*Visual Instruction Bottleneck Tuning*"
-
-<!-- ## Projects
-### Carnegie Mellon University
-- Robust Fine-Tuning of Visual Foundation Models
-  - <a href="https://zhiqic.github.io/CMU-2023-Fall-11-775-MultimediaAnalysis/index.html" style="color: #009B8B; text-decoration: none;">Large-Scale Multimedia Analysis 11-775 2023f</a> Course Project, Sep. 2023 - Dec. 2023
-  - *related papers: <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">Towards Calibrated Robust Fine-Tuning of Vision-Language Models</a> (NeurIPS 2023 Workshop DistShift)*
-- Delving into the Feature Distortion Effect of Fine-Tuned Visual Foundation Models
-  - <a href="https://deeplearning.cs.cmu.edu/F23/index.html" style="color: #009B8B; text-decoration: none;">Introduction to Deep Learning 11-785 2023f</a> Course Project, Sep. 2023 - Dec. 2023
-- Exploring Prompt Engineering for RNN-based Language Models
-  - <a href="" style="color: #009B8B; text-decoration: none;">Natural Language Processing 11-411/611 2023f</a> Course Project, Sep. 2023 - Dec. 2023
-- AI on the Edge with Robotics (AIER)
-  - <a href="https://execed.isri.cmu.edu/" style="color: #009B8B; text-decoration: none;">Executive & Professional Education Program at S3D</a>, Oct. 2023 - present
-  - *repository: <a href="https://github.com/IITP-CMU23-aespa/Photograbot" style="color: #009B8B; text-decoration: none;">Photograbot</a>*
-   
-### University of Seoul
-- Education Contents Relationship Analysis with Multimodal Learning
-  - <a href="http://www.jointips.or.kr/about_en.php" style="color: #009B8B; text-decoration: none;">TIPS</a>, Dec. 2022 - Aug. 2023
-  - *related papers: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information</a>*
-- Multimodal Learning for Social Event Analysis
-  - <a href="https://hustlers.oopy.io/" style="color: #009B8B; text-decoration: none;">HUSTLERS Corp.</a>, Oct. 2022 - Dec. 2022
-  - *related papers: Multimodal Learning for Social Event Analysis (preprint)*
-- Multi-purpose Technology Commercialization Documents Recommendation
-  - <a href="https://www.kisti.re.kr/eng/" style="color: #009B8B; text-decoration: none;">KISTI</a>, Mar. 2022 - Nov. 2022
-  - *related papers: Multi-purpose Technology Commercialization Recommender System with Large-scale Korean Language Model (preprint)*
-- Epidemiological Relevance Evaluation Technology for Vaccination Reactions
-  - <a href="https://www.mfds.go.kr/eng/index.do" style="color: #009B8B; text-decoration: none;">Ministry of Food and Drug Safety</a>, Mar. 2022 - Aug. 2023
-- Keyword Extraction for Technology Commercialization Documents
-  - <a href="https://www.kisti.re.kr/eng/" style="color: #009B8B; text-decoration: none;">KISTI</a>, June. 2021 - Oct. 2021
-  - *related papers: TC-BERT: Large-scale Language Model for Korean Technology Documents (preprint)* -->
-
-<!-- ## Awards & Scholarships
-- **DEI Scholarship Travel Awards**, CVPR, Apr. 2023
-- (Scholarship; USD 41K) **AI Intensive Program at Carnegie Mellon University**, IITP and Sogang University, Mar. 2023 
-- (1st place) **Outstanding Paper Award, President's prize**, University of Seoul, Feb. 2023
-- (2nd place) **Presentation Award, Workshop on Data-Driven Chemicals Management**, University of Seoul, Feb. 2023
-- **Student Travel Awards**, KDD, Jul. 2022 
-- **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Feb. 2021
-- **Academic Excellence Scholarship (half-tuition)**, University of Seoul, Aug. 2020 -->
-
 ## Academic Services 
-- Conference Reviewer:
-  - NeurIPS 2025, 2024
-  - ICML 2026, 2025 (**Top Reviewer**)
-  - ICLR 2026, 2025
-  - AAAI 2025
-  - AISTATS 2026
-  - CVPR 2024
+- Conference Reviewer
+  - NeurIPS '25, '24
+  - ICML '26, '25 (**Top Reviewer**)
+  - ICLR '26, '25
+  - AAAI '25
+  - AISTATS '26
+  - CVPR '24
 - Conference Volunteer: NeurIPS'24, KDD'22
-- Workshop Committee
-  - NeurIPS 2025,  <a href="https://reliablemlworkshop.github.io/" style="color: #009B8B; text-decoration:none">Reliable ML from Unreliable Data</a>
-  - ICLR 2025,  <a href="https://uncertainty-foundation-models.github.io/" style="color: #009B8B; text-decoration:none">Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI</a>
+- Workshop Committee/Reviewer
+  - ICLR '26, <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none"> Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>
+  - NeurIPS '25, <a href="https://reliablemlworkshop.github.io/" style="color: #009B8B; text-decoration:none">Reliable ML from Unreliable Data</a>
+  - ICLR '25, <a href="https://uncertainty-foundation-models.github.io/" style="color: #009B8B; text-decoration:none">Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI</a>
 - Journal Reviewer: TMLR, Neural Network
