@@ -105,7 +105,7 @@ IJCAI 2024, The Trustworthy AI Workshop
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/bubble3jh/bibimbap_ensemble/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:#3700FF">**Pattern Recognition**</span> 2024
-
+-->
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
@@ -134,7 +134,7 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun \\
 <a href="https://arxiv.org/abs/2407.13078" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 2024
-
+-->
 
 ## Education
 - **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
