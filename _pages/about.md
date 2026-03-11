@@ -33,8 +33,8 @@ See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="co
 
 - **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities** \\
 <u>Changdae Oh</u>, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li \\
-<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[website]</a> \\
-arXiv preprint 2026
+<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://openreview.net/forum?id=eMptSxXg9g" style="color: #009B8B; text-decoration: none;">[workshop]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[website]</a> \\
+ICLR 2026, Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy
 
 - **Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding** \\
 Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Sharon Li \\
