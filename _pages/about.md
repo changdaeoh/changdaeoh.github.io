@@ -14,6 +14,7 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
  
 
 ## News
+Mar. 2026, Our <a href="https://arxiv.org/abs/2407.17491" style="color: #009B8B; text-decoration:none">**BlackVIP extension**</a> got accepted to <a href="https://www.computer.org/csdl/journal/tp" style="color: #009B8B; text-decoration:none">**TPAMI journal**</a>! \\
 Feb. 2026, Will be interning for <a href="https://ai.meta.com/" style="color: #009B8B; text-decoration:none">**Meta Superintelligence Labs (PAR Team)**</a> this summer at Menlo Park, CA! \\
 Jan. 2026, Start collaboration with <a href="https://www.anl.gov/" style="color: #009B8B; text-decoration:none">**Argonne National Laboratory**</a> as a Visiting Student-Subcontractor! \\
 Jan. 2026, Three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a> with one <a href="https://openreview.net/forum?id=A4Us8jxVGq" style="color: #009B8B; text-decoration:none">**Oral presentation**</a>!
@@ -31,6 +32,11 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 (* denotes equal contribution) \\
 See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> for the full publication list.
 
+- **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
+<u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
+<a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<span style="color:darkred">**TPAMI**</span> 2026
+  
 - **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities** \\
 <u>Changdae Oh</u>, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li \\
 <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://openreview.net/forum?id=eMptSxXg9g" style="color: #009B8B; text-decoration: none;">[workshop]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[website]</a> \\
@@ -96,16 +102,16 @@ Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song 
 Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
 IJCAI 2024, The Trustworthy AI Workshop
 
-- **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
-<u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song \\
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/LMgMF/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:#3700FF">**Expert Systems with Applications**</span> 2024
-
 - **Bibimbap: Pre-trained Models Ensemble for Domain Generalization** \\
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/bubble3jh/bibimbap_ensemble/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:#3700FF">**Pattern Recognition**</span> 2024
 -->
+
+- **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
+<u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song \\
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/LMgMF/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+<span style="color:darkred">**Expert Systems with Applications**</span> 2024
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
@@ -125,10 +131,6 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 
 <!-- ## Preprints
 
-- **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
-<u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
-<a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-2024
 
 - **Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism** \\
 Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun \\
@@ -150,7 +152,7 @@ Mar. 2016 - Feb. 2022
 
 ## Experience
 * *Research Scientist Intern*, **Meta Superintelligence Labs** \\
-Mentor: <a href="https://jkatzsam.github.io/" style="color: #009B8B; text-decoration:none">**Julian Katz-Samuels**</a>, May. 2026 ~ current
+Mentor: <a href="https://vickizeng.com/" style="color: #009B8B; text-decoration:none">**Qi Zeng**</a>, May. 2026 ~ current
 * *Visiting Student-Subcontractor*, **Argonne National Laboratory** \\
 Mentor: <a href="https://tanwimallick.github.io/" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, Feb. 2026 ~ current
 * *Research Intern*, **NAVER AI Lab** \\
