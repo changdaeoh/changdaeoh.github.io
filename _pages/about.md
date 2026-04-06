@@ -14,6 +14,7 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
  
 
 ## News
+Apr. 2026, Two papers got accepted to <a href="https://2026.aclweb.org/" style="color: #009B8B; text-decoration:none">**ACL 2026**</a> including our <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">**Agent UQ** position paper</a>. See you in San Diego!
 Mar. 2026, Our <a href="https://arxiv.org/abs/2407.17491" style="color: #009B8B; text-decoration:none">**BlackVIP extension**</a> got accepted to <a href="https://www.computer.org/csdl/journal/tp" style="color: #009B8B; text-decoration:none">**TPAMI journal**</a>! \\
 Feb. 2026, Will be interning for <a href="https://ai.meta.com/" style="color: #009B8B; text-decoration:none">**Meta Superintelligence Labs (PAR Team)**</a> this summer at Menlo Park, CA! \\
 Jan. 2026, Start collaboration with <a href="https://www.anl.gov/" style="color: #009B8B; text-decoration:none">**Argonne National Laboratory**</a> as a Visiting Student-Subcontractor! \\
@@ -28,58 +29,64 @@ Sep 2024, Our <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; 
 Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration:none">**UW-Madison CS**</a> as a PhD student! -->
 
 
-## Selected Publications and Preprints
+## Selected Publications
 (* denotes equal contribution) \\
 See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> for the full publication list.
+
+- **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities** \\
+<u>Changdae Oh</u>, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Sean Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li \\
+<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://openreview.net/forum?id=eMptSxXg9g" style="color: #009B8B; text-decoration: none;">[workshop]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[website]</a> \\
+<span style="color:darkred">ACL</span> 2026 
+ICLR 2026, Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy
+
+- **VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation** \\
+Seongheon Park, <u>Changdae Oh</u>, Hyeong Kyu Choi, Sean Du, Sharon Li \\
+<a href="https://arxiv.org/abs/2602.21054" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<span style="color:darkred">ACL</span> 2026 Findings
 
 - **Robust Adaptation of Foundation Models with Black-Box Visual Prompting** \\
 <u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
 <a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**TPAMI**</span> 2026
-  
-- **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities** \\
-<u>Changdae Oh</u>, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li \\
-<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://openreview.net/forum?id=eMptSxXg9g" style="color: #009B8B; text-decoration: none;">[workshop]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[website]</a> \\
-ICLR 2026, Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy
+<span style="color:darkred">TPAMI</span> 2026
 
 - **Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding** \\
 Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Sharon Li \\
 <a href="https://arxiv.org/abs/2509.23050" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/understanding_lp" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**ICLR**</span> 2026
+<span style="color:darkred">ICLR</span> 2026
 
 - **How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability** \\
 Shawn Im, <u>Changdae Oh</u>, Zhen Fang, Sharon Li \\
 <a href="https://arxiv.org/pdf/2601.19208" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/attn-dynamics-basis" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**ICLR**</span> 2026 **(Oral Presentation)**
+<span style="color:darkred">ICLR</span> 2026 (**Oral Presentation; 223/19814=1.1%**)
 
 - **General Exploratory Bonus for Optimistic Exploration in RLHF** \\
 Wendi Li, <u>Changdae Oh</u>, Sharon Li \\
 <a href="https://arxiv.org/pdf/2510.03269" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/WindyLee0822/GEB" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**ICLR**</span> 2026 \\
+<span style="color:darkred">ICLR</span> 2026 \\
 NeurIPS 2025, Workshop on Socially Responsible and Trustworthy Foundation Models (**Oral Presentation; 9/136=6.6%**)
 
 - **Visual Instruction Bottleneck Tuning** \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Sharon Li \\
 <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/vittle" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2025 \\
+<span style="color:darkred">NeurIPS</span> 2025 \\
 ICML 2025, Workshop on Reliable and Responsible Foundation Models (**Oral Presentation; 6/176=3.4%**)
 
 - **Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach** \\
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
 <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/mllmshift-emi" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**ICML**</span> 2025 \\
+<span style="color:darkred">ICML</span> 2025 \\
 ICLR 2025, QUESTION Workshop (**Oral Presentation**)
 
 - **DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation** \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a><a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Yixuan Li, Kyungwoo Song, Sangdoo Yun, Dongyoon Han \\
-<span style="color:darkred">**ICLR**</span> 2025 \\
+<span style="color:darkred">ICLR</span> 2025 \\
 NeurIPS 2024, Workshop on Adaptive Foundation Models
 
 - **Towards Calibrated Robust Fine-Tuning of Vision-Language Models** \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2024 \\
+<span style="color:darkred">NeurIPS</span> 2024 \\
 NeurIPS 2023, Workshop on Distribution Shifts
 
 <!-- - **TC-BERT: Large-scale Language Model for Korean Technology Documents** \\
@@ -111,23 +118,23 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song \\
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/LMgMF/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**Expert Systems with Applications**</span> 2024
+Expert Systems with Applications 2024
 
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/multimodal-mixup" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2023
+<span style="color:darkred">NeurIPS</span> 2023
 
 - **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \\
 <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Hyeji Hwang, Hee-young Lee, YongTaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
-<span style="color:darkred">**CVPR**</span> 2023
+<span style="color:darkred">CVPR</span> 2023
 
 - **Learning Fair Representation via Distributional Contrastive Disentanglement** \\
 <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/changdaeoh/FarconVAE" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <u>Changdae Oh</u>, Heeji Won, Junhyuk So, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song \\
-<span style="color:darkred">**KDD**</span> 2022
+<span style="color:darkred">KDD</span> 2022
 
 <!-- ## Preprints
 
@@ -165,13 +172,13 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 
 ## Academic Services 
 - Conference Reviewer
-  - NeurIPS '25, '24
+  - NeurIPS '26, '25, '24
   - ICML '26, '25 (**Top Reviewer**)
   - ICLR '26, '25
   - AAAI '25
   - AISTATS '26
   - CVPR '24
-- Conference Volunteer: NeurIPS'24, KDD'22
+- Conference Volunteer: NeurIPS '24, KDD '22
 - Workshop Committee/Reviewer
   - ICLR '26, <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none"> Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>
   - NeurIPS '25, <a href="https://reliablemlworkshop.github.io/" style="color: #009B8B; text-decoration:none">Reliable ML from Unreliable Data</a>
