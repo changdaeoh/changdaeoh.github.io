@@ -10,15 +10,17 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin--Madison, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a>, and an incoming intern at Meta Superintelligence Labs. Prior to my Ph.D., I earned my M.S. degree in AI from the University of Seoul, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I also had the opportunity to work with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during a visiting period at Carnegie Mellon University, and with <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a> during my internship at NAVER AI Lab.
 
-I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on uncertainty quantification and process reward modeling of LLM agents.
+I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on uncertainty quantification, process reward modeling, and test-time scaling of LLM agents.
  
 
 ## News
-`Apr. 2026` Two papers got accepted to <a href="https://2026.aclweb.org/" style="color: #009B8B; text-decoration:none">**ACL 2026**</a> including our <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">**Agent UQ** position paper</a>. See you in San Diego! \\
-`Mar. 2026` Our <a href="https://arxiv.org/abs/2407.17491" style="color: #009B8B; text-decoration:none">**BlackVIP extension**</a> got accepted to <a href="https://www.computer.org/csdl/journal/tp" style="color: #009B8B; text-decoration:none">**TPAMI journal**</a>! \\
-`Feb. 2026` Will be interning for <a href="https://ai.meta.com/" style="color: #009B8B; text-decoration:none">**Meta Superintelligence Labs (PAR Team)**</a> this summer at Menlo Park, CA! \\
-`Jan. 2026` Start collaboration with <a href="https://www.anl.gov/" style="color: #009B8B; text-decoration:none">**Argonne National Laboratory**</a> as a Visiting Student-Subcontractor! \\
-`Jan. 2026` Three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a> with one <a href="https://openreview.net/forum?id=A4Us8jxVGq" style="color: #009B8B; text-decoration:none">**Oral presentation**</a>!
+`May 2026` Selected as a Top Reviewer (Gold) at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML**</a> for the second year in a row; Glad to contribute to the community! \\
+`Apr 2026` Serve as a workshop day chair for <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none">**Agentic-AI-in-the-Wild@ICLR'26**</a>! \\
+`Apr 2026` Two papers got accepted to <a href="https://2026.aclweb.org/" style="color: #009B8B; text-decoration:none">**ACL 2026**</a> including our <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">**Agent UQ position paper**</a>. See you in San Diego! \\
+`Mar 2026` Our <a href="https://arxiv.org/abs/2407.17491" style="color: #009B8B; text-decoration:none">**BlackVIP extension**</a> got accepted to <a href="https://www.computer.org/csdl/journal/tp" style="color: #009B8B; text-decoration:none">**TPAMI journal**</a>! \\
+`Feb 2026` Will be interning for <a href="https://ai.meta.com/" style="color: #009B8B; text-decoration:none">**Meta Superintelligence Labs (PAR Team)**</a> this summer at Menlo Park, CA! \\
+`Jan 2026` Start collaboration with <a href="https://www.anl.gov/" style="color: #009B8B; text-decoration:none">**Argonne National Laboratory**</a> as a Visiting Student-Subcontractor! \\
+`Jan 2026` Three papers got accepted to <a href="https://iclr.cc/" style="color: #009B8B; text-decoration:none">**ICLR 2026**</a> with one <a href="https://openreview.net/forum?id=A4Us8jxVGq" style="color: #009B8B; text-decoration:none">**Oral presentation**</a>!
 <!-- Sep 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2025**</a> \\
 Jun 2025, Our <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">**Vittle**</a> paper got accepted to <a href="https://icml.cc/virtual/2025/workshop/39972" style="color: #009B8B; text-decoration:none">**ICML 2025 R2-FM workshop**</a> as an **Oral presentation** (6 out of 176)! \\
 May 2025, Selected as a **Top Reviewer** at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML 2025**</a>! \\
@@ -173,13 +175,15 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
 ## Academic Services 
 - Conference Reviewer
   - NeurIPS '26, '25, '24
-  - ICML '26, '25 (**Top Reviewer**)
+  - ICML '26 (**Top Reviewer**), '25 (**Top Reviewer**)
   - ICLR '26, '25
   - AAAI '25
   - AISTATS '26
   - CVPR '24
 - Conference Volunteer: NeurIPS '24, KDD '22
-- Workshop Committee/Reviewer
+- Workshop Chair
+  - ICLR '26, <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none"> Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>
+- Workshop Reviewer
   - ICLR '26, <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none"> Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>
   - NeurIPS '25, <a href="https://reliablemlworkshop.github.io/" style="color: #009B8B; text-decoration:none">Reliable ML from Unreliable Data</a>
   - ICLR '25, <a href="https://uncertainty-foundation-models.github.io/" style="color: #009B8B; text-decoration:none">Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI</a>
