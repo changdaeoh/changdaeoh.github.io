@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin--Madison, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a>, and an incoming intern at Meta Superintelligence Labs. Prior to my Ph.D., I earned my M.S. degree in AI from the University of Seoul, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I also had the opportunity to work with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during a visiting period at Carnegie Mellon University, and with <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a> during my internship at NAVER AI Lab.
+I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin--Madison, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a>, and a Research Scientist intern at Meta Superintelligence Labs. Prior to my Ph.D., I earned my M.S. degree in AI from the University of Seoul, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I also had the opportunity to work with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during a visiting period at Carnegie Mellon University, and with <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a> during my internship at NAVER AI Lab.
 
 I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on uncertainty quantification, process reward modeling, and test-time scaling of LLM agents.
  
@@ -117,11 +117,6 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 <span style="color:#3700FF">**Pattern Recognition**</span> 2024
 -->
 
-- **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
-<u>Changdae Oh</u>, Minhoi Park, Sungjun Lim, Kyungwoo Song \\
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424008261" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/LMgMF/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-Expert Systems with Applications 2024
-
 - **Geodesic Multi-Modal Mixup for Robust Fine-tuning** \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/multimodal-mixup" style="color: #009B8B; text-decoration: none;">[code]</a> \\
@@ -154,10 +149,10 @@ Sep. 2024 ~ Present
 
 - **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> \\
 advisor: Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a> \\
-Mar. 2022 - Aug. 2024
+Aug. 2024
 
 - **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> \\
-Mar. 2016 - Feb. 2022
+Feb. 2022
 
 ## Experience
 * *Research Scientist Intern*, **Meta Superintelligence Labs** \\
