@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin--Madison, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a>, and a Research Scientist intern at Meta Superintelligence Labs. Prior to my Ph.D., I earned my M.S. degree in AI from the University of Seoul, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I also had the opportunity to work with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during a visiting period at Carnegie Mellon University, and with <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a> during my internship at NAVER AI Lab.
+I am a Ph.D. student in the Department of Computer Sciences at the **University of Wisconsin--Madison**, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a>, and a Research Scientist intern at **Meta Superintelligence Labs** working with <a href="https://vickizeng.com/" style="color: #009B8B; text-decoration:none">**Qi Zeng**</a>. Prior to my Ph.D., I earned my M.S. degree in AI from the **University of Seoul**, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I also had the opportunity to work with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during a visiting period at **Carnegie Mellon University**, and with <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a> during my internship at **NAVER AI Lab**.
 
 I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on uncertainty quantification, process reward modeling, and test-time scaling of LLM agents.
  
 
 ## News
+`Jun 2026` <a href="https://https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration:none">**Progress Advantage**</a> is out (got accepted at ICML 2026 RLxF Workshop).
 `May 2026` Selected as a Top Reviewer (Gold) at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML**</a> for the second year in a row; Glad to contribute to the community! \\
-`Apr 2026` Serve as a workshop day chair for <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none">**Agentic-AI-in-the-Wild@ICLR'26**</a>! \\
+`Apr 2026` Serve as a workshop day chair for <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none">**Agentic AI in the Wild (ICLR'26)**</a>! \\
 `Apr 2026` Two papers got accepted to <a href="https://2026.aclweb.org/" style="color: #009B8B; text-decoration:none">**ACL 2026**</a> including our <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">**Agent UQ position paper**</a>. See you in San Diego! \\
 `Mar 2026` Our <a href="https://arxiv.org/abs/2407.17491" style="color: #009B8B; text-decoration:none">**BlackVIP extension**</a> got accepted to <a href="https://www.computer.org/csdl/journal/tp" style="color: #009B8B; text-decoration:none">**TPAMI journal**</a>! \\
 `Feb 2026` Will be interning for <a href="https://ai.meta.com/" style="color: #009B8B; text-decoration:none">**Meta Superintelligence Labs (PAR Team)**</a> this summer at Menlo Park, CA! \\
@@ -35,9 +36,23 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 (* denotes equal contribution) \\
 See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> for the full publication list.
 
+- **Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents** \\
+<u>Changdae Oh</u>, Wendi Li, Seongheon Park, Samuel Yeh, Tanwi Mallick, Sharon Li \\
+<a href="https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration: none;">[paper]</a>
+<a href="https://changdaeoh.github.io/progress-advantage/" style="color: #009B8B; text-decoration: none;">[project page]</a>
+<a href="https://github.com/deeplearning-wisc/progress-advantage" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+ICML 2026 Workshop on RL from World Feedback (RLxF)
+
+- **Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring** \\
+Seongheon Park, Wendi Li, <u>Changdae Oh</u>, Samuel Yeh, Zsolt Kira, Michael Hagenow, Sharon Li \\
+<a href="https://arxiv.org/abs/2605.30834" style="color: #009B8B; text-decoration: none;">[paper]</a>
+<a href="https://seongheon-96.github.io/hide_and_seek_site/" style="color: #009B8B; text-decoration: none;">[project page]</a> \\
+ICML 2026 Workshop on Failure Modes of Agentic AI (FAGEN)
+
 - **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities** \\
 <u>Changdae Oh</u>, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Sean Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li \\
-<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://openreview.net/forum?id=eMptSxXg9g" style="color: #009B8B; text-decoration: none;">[workshop]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[website]</a> \\
+<a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://openreview.net/forum?id=eMptSxXg9g" style="color: #009B8B; text-decoration: none;">[workshop]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[project page]</a>
+<a href="https://github.com/deeplearning-wisc/agentuq" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">ACL</span> 2026 \\
 ICLR 2026, Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy
 
@@ -176,10 +191,8 @@ Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #0
   - AISTATS '26
   - CVPR '24
 - Conference Volunteer: NeurIPS '24, KDD '22
-- Workshop Chair
-  - ICLR '26, <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none"> Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>
-- Workshop Reviewer
-  - ICLR '26, <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none"> Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>
-  - NeurIPS '25, <a href="https://reliablemlworkshop.github.io/" style="color: #009B8B; text-decoration:none">Reliable ML from Unreliable Data</a>
-  - ICLR '25, <a href="https://uncertainty-foundation-models.github.io/" style="color: #009B8B; text-decoration:none">Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI</a>
+- Workshop Committee
+  - ICLR '26, <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none"> Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>, Day Chair and Reviewer.
+  - NeurIPS '25, <a href="https://reliablemlworkshop.github.io/" style="color: #009B8B; text-decoration:none">Reliable ML from Unreliable Data</a>, Reviewer.
+  - ICLR '25, <a href="https://uncertainty-foundation-models.github.io/" style="color: #009B8B; text-decoration:none">Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI</a>, Reviewer.
 - Journal Reviewer: TMLR, Neural Network
