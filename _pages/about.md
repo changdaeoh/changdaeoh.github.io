@@ -14,7 +14,7 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
  
 
 ## News
-`Jun 2026` <a href="https://https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration:none">**Progress Advantage**</a> is out (got accepted at ICML 2026 RLxF Workshop).
+`Jun 2026` <a href="https://https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration:none">**Progress Advantage**</a> is out (got accepted at ICML 2026 RLxF Workshop). \\
 `May 2026` Selected as a Top Reviewer (Gold) at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML**</a> for the second year in a row; Glad to contribute to the community! \\
 `Apr 2026` Serve as a workshop day chair for <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none">**Agentic AI in the Wild (ICLR'26)**</a>! \\
 `Apr 2026` Two papers got accepted to <a href="https://2026.aclweb.org/" style="color: #009B8B; text-decoration:none">**ACL 2026**</a> including our <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">**Agent UQ position paper**</a>. See you in San Diego! \\
