@@ -45,7 +45,7 @@ See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="co
 <a href="https://changdaeoh.github.io/progress-advantage/" style="color: #009B8B; text-decoration: none;">[project page]</a>
 <a href="https://github.com/deeplearning-wisc/progress-advantage" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">NeurIPS</span> 2026 \\
-ICML 2026 Workshop on RL from World Feedback (RLxF); **Oral Presentation (5/222=2.2%)**
+ICML 2026 Workshop on RL from World Feedback (RLxF); **Best Paper Awardee**
 
 - **Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring** \\
 Seongheon Park, Wendi Li, <u>Changdae Oh</u>, Samuel Yeh, Zsolt Kira, Michael Hagenow, Sharon Li \\
