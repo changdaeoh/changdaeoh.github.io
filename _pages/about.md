@@ -14,7 +14,10 @@ I am broadly interested in machine learning fundamentals and trustworthy AI. Rec
  
 
 ## News
-`Jun 2026` <a href="https://https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration:none">**Progress Advantage**</a> is out (got accepted at the <a href="https://sites.google.com/view/rlxf-icml2026/accepted-papers?authuser=0" style="color: #009B8B; text-decoration:none">ICML 2026 RLxF Workshop, Oral Presentation</a>). \\
+`Oct 2026` Will give a short talk at a workshop at the <a href="https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy/schedule#simons-tabs" style="color: #009B8B; text-decoration:none">Simons Institute for the Theory of Computing @ UC Berkeley</a>.
+`Sep 2026` Two papers, including <a href="https://https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration:none">**Progress Advantage**</a>, got accepted to <a href="https://neurips.cc/" style="color: #009B8B; text-decoration:none">**NeurIPS 2026**</a>. \\
+`Jul 2026` <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">**AgentUQ**</a> and <a href="https://https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration:none">**Progress Advantage**</a> were covered at the <a href="https://www.youtube.com/watch?v=VfuCUgFmroI" style="color: #009B8B; text-decoration: none;">**Cohere Lab in Conversation**</a> session.
+`Jun 2026` <a href="https://https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration:none">**Progress Advantage**</a> is out (won the best paper award at the<a href="https://sites.google.com/view/rlxf-icml2026/accepted-papers?authuser=0" style="color: #009B8B; text-decoration:none">ICML 2026 RLxF Workshop</a>). \\
 `May 2026` Selected as a Top Reviewer (Gold) at <a href="https://icml.cc/" style="color: #009B8B; text-decoration:none">**ICML**</a> for the second year in a row; Glad to contribute to the community! \\
 `Apr 2026` Serve as a workshop day chair for <a href="https://hallucination-reliable-agentic-ai.github.io/" style="color: #009B8B; text-decoration:none">**Agentic AI in the Wild (ICLR'26)**</a>! \\
 `Apr 2026` Two papers got accepted to <a href="https://2026.aclweb.org/" style="color: #009B8B; text-decoration:none">**ACL 2026**</a> including our <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">**Agent UQ position paper**</a>. See you in San Diego! \\
@@ -41,12 +44,14 @@ See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="co
 <a href="https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration: none;">[paper]</a>
 <a href="https://changdaeoh.github.io/progress-advantage/" style="color: #009B8B; text-decoration: none;">[project page]</a>
 <a href="https://github.com/deeplearning-wisc/progress-advantage" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+<span style="color:darkred">NeurIPS</span> 2026 \\
 ICML 2026 Workshop on RL from World Feedback (RLxF); **Oral Presentation (5/222=2.2%)**
 
 - **Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring** \\
 Seongheon Park, Wendi Li, <u>Changdae Oh</u>, Samuel Yeh, Zsolt Kira, Michael Hagenow, Sharon Li \\
 <a href="https://arxiv.org/abs/2605.30834" style="color: #009B8B; text-decoration: none;">[paper]</a>
 <a href="https://seongheon-96.github.io/hide_and_seek_site/" style="color: #009B8B; text-decoration: none;">[project page]</a> \\
+<span style="color:darkred">NeurIPS</span> 2026 \\
 ICML 2026 Workshop on Failure Modes of Agentic AI (FAGEN)
 
 - **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities** \\
