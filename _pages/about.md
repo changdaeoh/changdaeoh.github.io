@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Sciences at the **University of Wisconsin--Madison**, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a>, and a Research Scientist intern at **Meta Superintelligence Labs** working with <a href="https://vickizeng.com/" style="color: #009B8B; text-decoration:none">**Qi Zeng**</a>. Prior to my Ph.D., I earned my M.S. degree in AI from the **University of Seoul**, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I also had the opportunity to work with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during a visiting period at **Carnegie Mellon University**, and with <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a> during my internship at **NAVER AI Lab**.
+I am a Ph.D. student in the Department of Computer Sciences at the **University of Wisconsin--Madison**, advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a>. During my Ph.D., I was a Research Scientist intern at **Meta Superintelligence Labs** (Summer 2026), working with <a href="https://vickizeng.com/" style="color: #009B8B; text-decoration:none">**Qi Zeng**</a>. Previously, I earned my M.S. degree in AI from the **University of Seoul**, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a>. I also had the opportunity to work with <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, <a href="https://scholar.google.co.uk/citations?user=Py54GcEAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Alexander Hauptmann**</a>, and <a href="https://www.cs.cmu.edu/~dmortens/" style="color: #009B8B; text-decoration:none">**David Mortensen**</a> during a visiting period at **Carnegie Mellon University**, and with <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a> during my internship at **NAVER AI Lab**.
 
 I am broadly interested in machine learning fundamentals and trustworthy AI. Recently, I have been focusing on uncertainty quantification, reward modeling, post-training, and test-time scaling of (multimodal) LLM agents.
  
@@ -43,8 +43,9 @@ See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="co
 <u>Changdae Oh</u>, Qi Zeng, Qi Qi, Andrey Zhmoginov, Deren Lei, Yun He, Hoang Phan, Hangoo Kang, Azalia Mirhoseini, Sharon Li \\
 <a href="https://arxiv.org/abs/2610.01509" style="color: #009B8B; text-decoration: none;">[paper]</a>
 <a href="https://changdaeoh.github.io/sharpening-tax/" style="color: #009B8B; text-decoration: none;">[project page]</a>
-<a href="https://github.com/changdaeoh/sharpening-tax" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-**arXiv 2026**
+<a href="https://github.com/changdaeoh/sharpening-tax" style="color: #009B8B; text-decoration: none;">[code]</a> 
+<a href="https://x.com/Changdae_Oh/status/2105852436602626399?s=20" style="color: #009B8B; text-decoration: none;">[X thread]</a> \\
+arXiv preprint, Oct 2026
 
 - *Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents* \\
 <u>Changdae Oh</u>, Wendi Li, Seongheon Park, Samuel Yeh, Tanwi Mallick, Sharon Li \\
@@ -168,29 +169,31 @@ Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun \\
 -->
 
 ## Education
-- **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
+- **Ph.D.** in Computer Science, University of Wisconsin-Madison \\
 advisor: Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Li**</a> \\
 Sep. 2024 ~ Present
 
-- **M.S.** in Artificial Intelligence, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> \\
+- **M.S.** in Artificial Intelligence, University of Seoul \\
 advisor: Prof. <a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Kyungwoo Song**</a> and Prof. <a href="https://scholar.google.com/citations?user=wc_MQkoAAAAJ&hl=ko&oi=ao" style="color: #009B8B; text-decoration:none">**Jiyoung Jung**</a> \\
 Aug. 2024
 
-- **B.S.** in Statistics, <a href="https://english.uos.ac.kr/" style="color: #009B8B; text-decoration: none;">**University of Seoul**</a> \\
+- **B.S.** in Statistics, University of Seoul \\
 Feb. 2022
 
 ## Experience
 * *Research Scientist Intern*, **Meta Superintelligence Labs** \\
-Mentor: <a href="https://vickizeng.com/" style="color: #009B8B; text-decoration:none">**Qi Zeng**</a>, May. 2026 ~ current
+Mentor: <a href="https://vickizeng.com/" style="color: #009B8B; text-decoration:none">**Qi Zeng**</a>, May. 2026 ~ Sep. 2026
+  * <a href="https://arxiv.org/abs/2610.01509" style="color: #009B8B; text-decoration: none;">Sharpening Tax in Post-Training</a>, arXiv preprint, Oct 2026
 * *Visiting Student-Subcontractor*, **Argonne National Laboratory** \\
 Mentor: <a href="https://tanwimallick.github.io/" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, Feb. 2026 ~ May 2026
+  * <a href="https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration: none;">Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents</a>, NeurIPS 2026 
 * *Research Intern*, **NAVER AI Lab** \\
 Mentor: <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024
-  * DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation, ICLR 2025
+  * <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation</a>, ICLR 2025
 * *Visiting Scholar*, **Carnegie Mellon University** \\
 Mentor:  <a href="https://zhiqic.github.io/homepage/index.html" style="color: #009B8B; text-decoration:none">**Zhi-Qi Cheng**</a>, Sep. 2023 ~ Feb. 2024 \\
-  * Towards Calibrated Robust Fine-Tuning of Vision-Language Model, NeurIPS 2024
-  * Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer, EMNLP 2024 Workshop
+  * <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">Towards Calibrated Robust Fine-Tuning of Vision-Language Models</a>, NeurIPS 2024
+  * <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer</a>, EMNLP 2024 Workshop
 
 <!--
 ## Academic Services 
