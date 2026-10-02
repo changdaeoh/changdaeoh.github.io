@@ -39,6 +39,13 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 (* denotes equal contribution) \\
 See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> for the full publication list.
 
+- *Sharpening Tax in Post-Training* \\
+<u>Changdae Oh</u>, Qi Zeng, Qi Qi, Andrey Zhmoginov, Deren Lei, Yun He, Hoang Phan, Hangoo Kang, Azalia Mirhoseini, Sharon Li \\
+<a href="https://arxiv.org/abs/2610.01509" style="color: #009B8B; text-decoration: none;">[paper]</a>
+<a href="https://changdaeoh.github.io/sharpening-tax/" style="color: #009B8B; text-decoration: none;">[project page]</a>
+<a href="https://github.com/changdaeoh/sharpening-tax" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+**arXiv 2026**
+
 - *Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents* \\
 <u>Changdae Oh</u>, Wendi Li, Seongheon Park, Samuel Yeh, Tanwi Mallick, Sharon Li \\
 <a href="https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration: none;">[paper]</a>
