@@ -39,7 +39,7 @@ Aug 2024, Join <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-de
 (* denotes equal contribution) \\
 See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="color: #009B8B; text-decoration:none">**Google Scholar**</a> for the full publication list.
 
-- Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents \\
+- *Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents* \\
 <u>Changdae Oh</u>, Wendi Li, Seongheon Park, Samuel Yeh, Tanwi Mallick, Sharon Li \\
 <a href="https://arxiv.org/abs/2606.26080" style="color: #009B8B; text-decoration: none;">[paper]</a>
 <a href="https://changdaeoh.github.io/progress-advantage/" style="color: #009B8B; text-decoration: none;">[project page]</a>
@@ -47,106 +47,106 @@ See <a href="https://scholar.google.co.kr/citations?user=7oAZaVcAAAAJ" style="co
 **NeurIPS 2026** \\
 ICML 2026 Workshop on RL from World Feedback (RLxF) **Best Paper Awardee**
 
-- Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring \\
+- *Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring* \\
 Seongheon Park, Wendi Li, <u>Changdae Oh</u>, Samuel Yeh, Zsolt Kira, Michael Hagenow, Sharon Li \\
 <a href="https://arxiv.org/abs/2605.30834" style="color: #009B8B; text-decoration: none;">[paper]</a>
 <a href="https://seongheon-96.github.io/hide_and_seek_site/" style="color: #009B8B; text-decoration: none;">[project page]</a> \\
 **NeurIPS 2026** \\
 ICML 2026 Workshop on Failure Modes of Agentic AI (FAGEN)
 
-- Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities \\
+- *Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities* \\
 <u>Changdae Oh</u>, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Sean Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li \\
 <a href="https://arxiv.org/abs/2602.05073" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://openreview.net/forum?id=eMptSxXg9g" style="color: #009B8B; text-decoration: none;">[workshop]</a> <a href="https://agentuq.github.io/" style="color: #009B8B; text-decoration: none;">[project page]</a>
 <a href="https://github.com/deeplearning-wisc/agentuq" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **ACL 2026** \\
 ICLR 2026, Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy
 
-- VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation \\
+- *VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation* \\
 Seongheon Park, <u>Changdae Oh</u>, Hyeong Kyu Choi, Sean Du, Sharon Li \\
 <a href="https://arxiv.org/abs/2602.21054" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 **ACL 2026 Findings**
 
-- Robust Adaptation of Foundation Models with Black-Box Visual Prompting \\
+- *Robust Adaptation of Foundation Models with Black-Box Visual Prompting* \\
 <u>Changdae Oh</u>, Gyeongdeok Seo, Geunyoung Jung, Zhi-Qi Cheng, Hosik Choi, Jiyoung Jung, Kyungwoo Song \\
 <a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 **TPAMI 2026**
 
-- Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding \\
+- *Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding* \\
 Lin Long\*, <u>Changdae Oh</u>\*, Seongheon Park, Sharon Li \\
 <a href="https://arxiv.org/abs/2509.23050" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/understanding_lp" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **ICLR 2026**
 
-- How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability \\
+- *How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability* \\
 Shawn Im, <u>Changdae Oh</u>, Zhen Fang, Sharon Li \\
 <a href="https://arxiv.org/pdf/2601.19208" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/attn-dynamics-basis" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **ICLR 2026** (**Oral Presentation; 223/19814=1.1%**)
 
-- General Exploratory Bonus for Optimistic Exploration in RLHF \\
+- *General Exploratory Bonus for Optimistic Exploration in RLHF* \\
 Wendi Li, <u>Changdae Oh</u>, Sharon Li \\
 <a href="https://arxiv.org/pdf/2510.03269" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/WindyLee0822/GEB" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **ICLR 2026** \\
 NeurIPS 2025, Workshop on Socially Responsible and Trustworthy Foundation Models (**Oral Presentation; 9/136=6.6%**)
 
-- Visual Instruction Bottleneck Tuning \\
+- *Visual Instruction Bottleneck Tuning* \\
 <u>Changdae Oh</u>, Jiatong Li, Shawn Im, Sharon Li \\
 <a href="https://arxiv.org/abs/2505.13946" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/vittle" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **NeurIPS 2025** \\
 ICML 2025, Workshop on Reliable and Responsible Foundation Models (**Oral Presentation; 6/176=3.4%**)
 
-- Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach \\
+- *Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach* \\
 <u>Changdae Oh</u>, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li \\
 <a href="https://arxiv.org/abs/2502.00577" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/mllmshift-emi" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **ICML 2025** \\
 ICLR 2025, QUESTION Workshop (**Oral Presentation**)
 
-- DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation \\
+- *DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation* \\
 <u>Changdae Oh</u>, Yixuan Li, Kyungwoo Song, Sangdoo Yun, Dongyoon Han \\
 <a href="https://arxiv.org/abs/2410.03782" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/naver-ai/dawin" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **ICLR 2025** \\
 NeurIPS 2024, Workshop on Adaptive Foundation Models
 
-- Towards Calibrated Robust Fine-Tuning of Vision-Language Models \\
+- *Towards Calibrated Robust Fine-Tuning of Vision-Language Models* \\
 <u>Changdae Oh</u>\*, Hyesu Lim\*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **NeurIPS 2024** \\
 NeurIPS 2023, Workshop on Distribution Shifts
 
-<!-- - TC-BERT: Large-scale Language Model for Korean Technology Documents \\
+<!-- - *TC-BERT: Large-scale Language Model for Korean Technology Documents* \\
 <a href="https://link.springer.com/article/10.1007/s11227-024-06597-6" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/TC-BERT" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 Taero Kim\*, <u>Changdae Oh</u>\*, Hyeji Hwang\*, Eunkyeong Lee, Yewon Kim, Yunjeong Choi, Sungjin Kim, Hosik Choi, Kyungwoo Song \\
 **The Journal of Supercomputing 2024**
 
-- Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer \\
+- *Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer* \\
 <a href="https://arxiv.org/abs/2402.14279" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 Haeji Jung, <u>Changdae Oh</u>, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R. Mortensen \\
 EMNLP 2024, Multilingual Representation Learning Workshop
 
-- Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments \\
+- *Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments* \\
 Hee-young Lee\*, Hoyoon Byun\*, <u>Changdae Oh</u>, JinYeong Bak, Kyungwoo Song \\
 <a href="https://arxiv.org/pdf/2408.10107" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 **ECAI 2024** (**Oral Presentation**)
 
-- First Step for Theoretical and Practical Foundations of Robust Visual Prompting \\
+- *First Step for Theoretical and Practical Foundations of Robust Visual Prompting* \\
 Gyeongdeok Seo\*, <u>Changdae Oh</u>\*, Kyungwoo Song \\
 IJCAI 2024, The Trustworthy AI Workshop
 
-- Bibimbap: Pre-trained Models Ensemble for Domain Generalization \\
+- *Bibimbap: Pre-trained Models Ensemble for Domain Generalization* \\
 Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324001420" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/bubble3jh/bibimbap_ensemble/tree/main" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **Pattern Recognition 2024**
 -->
 
-- Geodesic Multi-Modal Mixup for Robust Fine-tuning \\
+- *Geodesic Multi-Modal Mixup for Robust Fine-tuning* \\
 <u>Changdae Oh</u>\*, Junhyuk So\*, YongTaek Lim, Hoyoon Byun, Minchul Shin, Jong-June Jeon, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2203.03897" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/multimodal-mixup" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **NeurIPS 2023**
 
-- BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning \\
+- *BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning* \\
 <u>Changdae Oh</u>, Hyeji Hwang, Hee-young Lee, YongTaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song \\
 <a href="https://arxiv.org/abs/2303.14773" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/BlackVIP" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **CVPR 2023**
 
-- Learning Fair Representation via Distributional Contrastive Disentanglement \\
+- *Learning Fair Representation via Distributional Contrastive Disentanglement* \\
 <u>Changdae Oh</u>, Heeji Won, Junhyuk So, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song \\
 <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539232" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/changdaeoh/FarconVAE" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 **KDD 2022**
@@ -154,7 +154,7 @@ Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang
 <!-- ## Preprints
 
 
-- Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism \\
+- *Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism* \\
 Sangyoun Lee, Juho Jung, <u>Changdae Oh</u>, Sunghee Yun \\
 <a href="https://arxiv.org/abs/2407.13078" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 2024
@@ -176,7 +176,7 @@ Feb. 2022
 * *Research Scientist Intern*, **Meta Superintelligence Labs** \\
 Mentor: <a href="https://vickizeng.com/" style="color: #009B8B; text-decoration:none">**Qi Zeng**</a>, May. 2026 ~ current
 * *Visiting Student-Subcontractor*, **Argonne National Laboratory** \\
-Mentor: <a href="https://tanwimallick.github.io/" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, Feb. 2026 ~ current
+Mentor: <a href="https://tanwimallick.github.io/" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, Feb. 2026 ~ May 2026
 * *Research Intern*, **NAVER AI Lab** \\
 Mentor: <a href="https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Dongyoon Han**</a> and <a href="https://scholar.google.com/citations?user=o0qtjzYAAAAJ&hl=en" style="color: #009B8B; text-decoration:none">**Sangdoo Yun**</a>, Apr. 2023 ~ Aug. 2024
   * DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation, ICLR 2025
